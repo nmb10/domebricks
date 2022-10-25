@@ -4,7 +4,7 @@
 <h1>
     <p align="center">Domebricks</p>
 </h1>
-<p align="center">
+<p align="center" style="color:brown">
     Pre-alfa release of the script. Use it on your own risk, I don't guarantee correctness of any value computed.
 </p>
 <p align="center">
@@ -19,16 +19,16 @@
 </p>
 
 ## About The Project
-Domebricks is a Python script for computing and printing schemes needed to cut bricks for pompeii oven dome. This script allows to set initial bricks sizes, dome radius and dome height. As a result show svg with all info needed to cut dome row brick.
+Domebricks is a Python script for computing and printing schemes needed to cut bricks for pompeii oven dome. This script allows to set initial bricks sizes, dome radius and dome height. As a result outputs svg with all info needed to cut dome row brick.
 
 ## Importing
 Import from GitHub:
-```py
-!wget https://raw.githubusercontent.com/nmb10/domebricks.py
+```bash
+wget https://raw.githubusercontent.com/nmb10/domebricks.py
 ```
 
 ## Usage
-```sh
+```bash
 usage: domebricks.py [-h] [--scale SCALE] [--brick_width BRICK_WIDTH] [--brick_height BRICK_HEIGHT]
                      [--brick_depth BRICK_DEPTH] [--inner_radius INNER_RADIUS] [--height HEIGHT]
                      [--first_row_height FIRST_ROW_HEIGHT] [--seam SEAM]
@@ -53,13 +53,13 @@ All params are optional.
 
 ## Run Examples
 ```bash
-$ domebricks.py
+domebricks.py
 ```
 After finish open dome.svg in any browser
 
 Example with all params:
 ```bash
-$ domebricks.py --scale=3.78 --brick_width=250 --brick_height=65 --brick_depth=125 --inner_radius=503 --height=440 --first_row_height=125 --seam=4
+domebricks.py --scale=3.78 --brick_width=250 --brick_height=65 --brick_depth=125 --inner_radius=503 --height=440 --first_row_height=125 --seam=4
 ```
 
 ## Output examples
@@ -67,5 +67,5 @@ Check out <a href="https://raw.githubusercontent.com/nmb10/example.svg">example.
 
 ## Run tests
 ```bash
-$ python -m unittest
+python -m unittest
 ```
