@@ -63,7 +63,7 @@ domebricks.py --scale=3.78 --brick_width=250 --brick_height=65 --brick_depth=125
 ```
 
 ## Output examples
-Check out [a relative link](example.svg) for default run output.
+Check out [example.svg](example.svg) for default run output.
 
 ## Run tests
 ```bash
