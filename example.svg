@@ -1,0 +1,2893 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg version="1.1" width="2000mm" height="10000mm" xmlns="http://www.w3.org/2000/svg" >
+<g transform="scale(1.89)">
+<line x1="703" y1="663" x2="703.0" y2="-65.0" stroke-width="2" stroke="black" />
+<text fill="green" x="683" y="653">SCCP</text><circle cx="703" cy="663" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="683" y="203">HI</text><circle cx="703" cy="213" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-5139bafae5e94772a6899df8c7209518"   stroke-width="2" stroke="green" d="M703,213 L703,663" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-5139bafae5e94772a6899df8c7209518" font-family="Verdana" font-size="14" fill="green">
+        450.0
+    </textPath>
+</text>
+
+
+<path id="path-abb3e339d71f46fabcf3279fa93d7e2a"   stroke-width="2" stroke="green" d="M200.0,662.9999999999999 L703,663" fill="none" />
+
+<text dx="441.5" dy="682.9999999999999" fill="green" style="transform-box: fill-box; transform-origin: center;" >
+    503.0
+</text>
+
+
+<path id="path-3a7512feb62a4c679ac131b2d52105a9"   stroke-width="2" stroke="gray" d="M200.0,551.3641074099392 L703,754" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-3a7512feb62a4c679ac131b2d52105a9" font-family="Verdana" font-size="14" fill="gray">
+        542.3
+    </textPath>
+</text>
+
+
+<path id="path-0b588d86beb3487b8a725f133b463a18"   stroke-width="2" stroke="orange" d="M75.0,662.9999999999999 L75.0,501.0072752553515" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-0b588d86beb3487b8a725f133b463a18" font-family="Verdana" font-size="14" fill="orange">
+        162.0
+    </textPath>
+</text>
+
+
+<path id="path-b569b4199a21497baa431ca46a360481"   stroke-width="2" stroke="orange" d="M75.0,501.0072752553515 L200.0,551.3641074099392" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-b569b4199a21497baa431ca46a360481" font-family="Verdana" font-size="14" fill="orange">
+        134.8
+    </textPath>
+</text>
+
+
+<path id="path-41303dc71f6149528b3ef2e84352bf68"   stroke-width="2" stroke="orange" d="M200.0,551.3641074099392 L200.0,662.9999999999999" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-41303dc71f6149528b3ef2e84352bf68" font-family="Verdana" font-size="14" fill="orange">
+        111.6
+    </textPath>
+</text>
+
+
+<path id="path-79bcce66c9cd433f9be317449f342e74"   stroke-width="2" stroke="orange" d="M200.0,662.9999999999999 L75.0,662.9999999999999" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-79bcce66c9cd433f9be317449f342e74" font-family="Verdana" font-size="14" fill="orange">
+        125.0
+    </textPath>
+</text>
+
+<text x="100" y="854" font-size="30">#1 (soldier). (view from above) bricks: 58, seam: 4, bottom_outer_radius: 628.0, bottom_inner_radius: 503, top_outer_radius: 628.0, top_inner_radius: 503</text>
+
+<path id="path-0ffefa806feb4633838433fb94a7b8cd"   stroke-width="2" stroke="orange" d="M85.55016910299571,500.9288710159519 L113.08682666466325,442.0837645690226" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-0ffefa806feb4633838433fb94a7b8cd" font-family="Verdana" font-size="14" fill="orange">
+        65.0
+    </textPath>
+</text>
+
+
+<path id="path-a4e7230dfabc496c89c88b581b3f0065"   stroke-width="2" stroke="orange" d="M113.08682666466325,442.0837645690226 L223.59056811066517,500.5125513648748" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-a4e7230dfabc496c89c88b581b3f0065" font-family="Verdana" font-size="14" fill="orange">
+        125.0
+    </textPath>
+</text>
+
+
+<path id="path-ae7e7949ee424cda9b43366f7349d418"   stroke-width="2" stroke="orange" d="M223.59056811066517,500.5125513648748 L201.21213352997842,548.3346721893462" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" transform="rotate(180)">
+    <textPath href="#path-ae7e7949ee424cda9b43366f7349d418" font-family="Verdana" font-size="14" fill="orange">
+        52.8
+    </textPath>
+</text>
+
+
+<path id="path-46c8fe32dc504737bbc5a33ee63975b7"   stroke-width="2" stroke="orange" d="M201.21213352997842,548.3346721893462 L85.55016910299571,500.9288710159519" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-46c8fe32dc504737bbc5a33ee63975b7" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="93.08682666466325" y="432.0837645690226">#2-TOP</text><circle cx="113.08682666466325" cy="442.0837645690226" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-5181c092828c413ea3973ad10fe6f098"   stroke-width="2" stroke="gray" d="M223.59056811066517,500.5125513648748 L703,754" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-5181c092828c413ea3973ad10fe6f098" font-family="Verdana" font-size="14" fill="gray">
+        542.3
+    </textPath>
+</text>
+
+<text fill="green" x="60" y="1149">A</text><circle cx="80" cy="1159" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="181.1" y="1149">B</text><circle cx="201.1" cy="1159" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="169.4" y="1274.0">C</text><circle cx="189.4" cy="1284.0" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="71.70000000000002" y="1274.0">D</text><circle cx="91.70000000000002" cy="1284.0" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-2648dbfe01aa4b48af4d433cccc2754f"   stroke-width="2" stroke="orange" d="M80,1159 L205.0,1159" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-2648dbfe01aa4b48af4d433cccc2754f" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-b2288e6e8e56467fa5ff410a04283af7"   stroke-width="2" stroke="orange" d="M205.0,1159 L205.0,1284.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-b2288e6e8e56467fa5ff410a04283af7" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-6a4331c5a96b465090aa4029cdcef038"   stroke-width="2" stroke="orange" d="M205.0,1284.0 L80,1284.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-6a4331c5a96b465090aa4029cdcef038" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-7c828f3e60964691b9b6fa9cae8f74e3"   stroke-width="2" stroke="orange" d="M80,1284.0 L80,1159" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-7c828f3e60964691b9b6fa9cae8f74e3" font-family="Verdana" font-size="14" fill="orange">
+        125.0
+    </textPath>
+</text>
+
+
+<path id="path-229162924aa241aba873960103089a4e" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M80,1159 L201.1,1159" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" transform="rotate(-20)">
+    <textPath href="#path-229162924aa241aba873960103089a4e" font-family="Verdana" font-size="14" fill="red">
+        121.1
+    </textPath>
+</text>
+
+
+<path id="path-edb22e2929e34421a07e5beb56d129c6" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M201.1,1159 L189.4,1284.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-edb22e2929e34421a07e5beb56d129c6" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-ef8708fb2ea54cccba4c791438b5d8b0" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M189.4,1284.0 L80,1284.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" transform="rotate(150)">
+    <textPath href="#path-ef8708fb2ea54cccba4c791438b5d8b0" font-family="Verdana" font-size="14" fill="red">
+        109.4
+    </textPath>
+</text>
+
+
+<path id="path-2a19ef9017ce49d9a6d53f7bc02b615d" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M91.70000000000002,1284.0 L189.4,1284.0" fill="none" />
+
+<text dx="101.70000000000002" dy="1274.0" fill="red" style="transform-box: fill-box; transform-origin: center;" >
+    97.7
+</text>
+
+
+<path id="path-29f3e9b309ea4c9585ff384f5e3d4f59" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M91.70000000000002,1284.0 L80,1159" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-29f3e9b309ea4c9585ff384f5e3d4f59" font-family="Verdana" font-size="14" fill="red">
+         
+    </textPath>
+</text>
+
+<text fill="green" x="630" y="1149">E</text><circle cx="650" cy="1159" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="745.6" y="1149">F</text><circle cx="765.6" cy="1159" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="734.4" y="1274.0">G</text><circle cx="754.4" cy="1284.0" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="641.1999999999999" y="1274.0">H</text><circle cx="661.1999999999999" cy="1284.0" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-aded370824ab457fabf53e0a512110bc"   stroke-width="2" stroke="gray" d="M650,1159 L765.6,1159" fill="none" />
+
+<text dx="640" dy="1149" fill="gray" style="transform-box: fill-box; transform-origin: center;" >
+    115.6
+</text>
+
+
+<path id="path-25a131ce704f44bb9c3da77c04107817"   stroke-width="2" stroke="gray" d="M765.6,1159 L754.4,1284.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-25a131ce704f44bb9c3da77c04107817" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+
+<path id="path-f552efc4cb26493d9271b036e8b5dd9c"   stroke-width="2" stroke="gray" d="M754.4,1284.0 L661.1999999999999,1284.0" fill="none" />
+
+<text dx="744.4" dy="1304.0" fill="gray" style="transform-box: fill-box; transform-origin: center;" >
+    93.2
+</text>
+
+
+<path id="path-e26c4ae28d8145f0a6c6f5d71b34276f"   stroke-width="2" stroke="gray" d="M661.1999999999999,1284.0 L650,1159" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-e26c4ae28d8145f0a6c6f5d71b34276f" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+<text x="100" y="1059" font-size="30">#2. bricks: 31, seam: 4, bottom_outer_radius: 617.4, bottom_inner_radius: 501.8, top_outer_radius: 589.9, top_inner_radius: 479.4</text>
+<text x="40" y="1079" font-size="20"><tspan x="40" dy=".6em">Step1: mark on the</tspan><tspan x="40" dy="1.2em">top of a brick</tspan></text>
+<text x="280" y="1079" font-size="20"><tspan x="280" dy=".6em">Step2: mark angles</tspan><tspan x="280" dy="1.2em">from A and B to the bottom</tspan></text>
+<text x="600" y="1079" font-size="20"><tspan x="600" dy=".6em">Step3: verify bottom</tspan><tspan x="600" dy="1.2em">sizes</tspan></text>
+
+<path id="path-5c163c9320044a8b94070e15efe3683e"  stroke-opacity="0" stroke-width="2" stroke="black" d="M80,1284.0 L91.70000000000002,1284.0" fill="none" />
+
+<text dx="70" dy="1304.0" fill="black" style="transform-box: fill-box; transform-origin: center;" >
+    11.7
+</text>
+
+<text fill="green" x="290" y="1159">DPB</text><circle cx="310" cy="1169" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="540.0" y="1159">DPC</text><circle cx="560.0" cy="1169" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="292.75" y="1259">DPD</text><circle cx="312.75" cy="1269" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-6509451e5f7e4d549216d2dd56f11b70" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M310,1169 L560.0,1169" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-6509451e5f7e4d549216d2dd56f11b70" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-c1418c92574f4135b7e99f5ee9c318b1" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M312.75,1269 L310,1169" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-c1418c92574f4135b7e99f5ee9c318b1" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="320" y="1189">88.4°</text><circle cx="340" cy="1199" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-c9e815d9209d4c9f88070e578676df47"   stroke-width="2" stroke="orange" d="M114.9689312535537,438.54992124123345 L148.43226252810712,382.8613270550944" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-c9e815d9209d4c9f88070e578676df47" font-family="Verdana" font-size="14" fill="orange">
+        65.0
+    </textPath>
+</text>
+
+
+<path id="path-bb247ad9608e40239c78b8ea9f09605a"   stroke-width="2" stroke="orange" d="M148.43226252810712,382.8613270550944 L252.31502468004265,452.3837819001614" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-bb247ad9608e40239c78b8ea9f09605a" font-family="Verdana" font-size="14" fill="orange">
+        125.0
+    </textPath>
+</text>
+
+
+<path id="path-c5b5af2f609c4c81b00ad9915c82ece2"   stroke-width="2" stroke="orange" d="M252.31502468004265,452.3837819001614 L225.12011302083346,497.6406747926284" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" transform="rotate(180)">
+    <textPath href="#path-c5b5af2f609c4c81b00ad9915c82ece2" font-family="Verdana" font-size="14" fill="orange">
+        52.8
+    </textPath>
+</text>
+
+
+<path id="path-075bb206fada4141b1c4609b6466da62"   stroke-width="2" stroke="orange" d="M225.12011302083346,497.6406747926284 L114.9689312535537,438.54992124123345" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-075bb206fada4141b1c4609b6466da62" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="128.43226252810712" y="372.8613270550944">#3-TOP</text><circle cx="148.43226252810712" cy="382.8613270550944" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-dc207b7f904b4a4089f73c1297093bcf"   stroke-width="2" stroke="gray" d="M252.31502468004265,452.3837819001614 L703,754" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-dc207b7f904b4a4089f73c1297093bcf" font-family="Verdana" font-size="14" fill="gray">
+        542.3
+    </textPath>
+</text>
+
+<text fill="green" x="60" y="1499">A</text><circle cx="80" cy="1509" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="175.2" y="1499">B</text><circle cx="195.2" cy="1509" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="164.05" y="1624.0">C</text><circle cx="184.05" cy="1634.0" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="71.14999999999999" y="1624.0">D</text><circle cx="91.14999999999999" cy="1634.0" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-88aa720afec74649be9a207ba9eb397b"   stroke-width="2" stroke="orange" d="M80,1509 L205.0,1509" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-88aa720afec74649be9a207ba9eb397b" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-40ce6fda93324ee29711b7adaef3cf05"   stroke-width="2" stroke="orange" d="M205.0,1509 L205.0,1634.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-40ce6fda93324ee29711b7adaef3cf05" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-ac000ac49652428d9532d9c574cb4015"   stroke-width="2" stroke="orange" d="M205.0,1634.0 L80,1634.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-ac000ac49652428d9532d9c574cb4015" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-08da426152204c49aea51adf48c7d843"   stroke-width="2" stroke="orange" d="M80,1634.0 L80,1509" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-08da426152204c49aea51adf48c7d843" font-family="Verdana" font-size="14" fill="orange">
+        125.0
+    </textPath>
+</text>
+
+
+<path id="path-564c18bc846b4a1d8ff81a1bb1a05f42" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M80,1509 L195.2,1509" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" transform="rotate(-20)">
+    <textPath href="#path-564c18bc846b4a1d8ff81a1bb1a05f42" font-family="Verdana" font-size="14" fill="red">
+        115.2
+    </textPath>
+</text>
+
+
+<path id="path-fd834ee709bf4df99ca311354a9533cf" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M195.2,1509 L184.05,1634.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-fd834ee709bf4df99ca311354a9533cf" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-8ef03f36bdcb4ed29874db9d23171703" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M184.05,1634.0 L80,1634.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" transform="rotate(150)">
+    <textPath href="#path-8ef03f36bdcb4ed29874db9d23171703" font-family="Verdana" font-size="14" fill="red">
+        104.1
+    </textPath>
+</text>
+
+
+<path id="path-ee7c4ac86c5f4b96a743ce57b93f0c7c" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M91.14999999999999,1634.0 L184.05,1634.0" fill="none" />
+
+<text dx="101.14999999999999" dy="1624.0" fill="red" style="transform-box: fill-box; transform-origin: center;" >
+    92.9
+</text>
+
+
+<path id="path-318eb486269644e09776948796727f08" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M91.14999999999999,1634.0 L80,1509" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-318eb486269644e09776948796727f08" font-family="Verdana" font-size="14" fill="red">
+         
+    </textPath>
+</text>
+
+<text fill="green" x="630" y="1499">E</text><circle cx="650" cy="1509" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="738.4" y="1499">F</text><circle cx="758.4" cy="1509" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="727.85" y="1624.0">G</text><circle cx="747.85" cy="1634.0" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="640.5500000000001" y="1624.0">H</text><circle cx="660.5500000000001" cy="1634.0" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-7ce52eff56ad404ea7fd82b45b347850"   stroke-width="2" stroke="gray" d="M650,1509 L758.4,1509" fill="none" />
+
+<text dx="640" dy="1499" fill="gray" style="transform-box: fill-box; transform-origin: center;" >
+    108.4
+</text>
+
+
+<path id="path-8aa5e5066d6c4c81a9b0f7edefa3d0c2"   stroke-width="2" stroke="gray" d="M758.4,1509 L747.85,1634.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-8aa5e5066d6c4c81a9b0f7edefa3d0c2" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+
+<path id="path-50dfc0d4ab004064b9663392e8a5e665"   stroke-width="2" stroke="gray" d="M747.85,1634.0 L660.5500000000001,1634.0" fill="none" />
+
+<text dx="737.85" dy="1654.0" fill="gray" style="transform-box: fill-box; transform-origin: center;" >
+    87.3
+</text>
+
+
+<path id="path-1dba8a6dc7b74538ab76ecec18d4c48e"   stroke-width="2" stroke="gray" d="M660.5500000000001,1634.0 L650,1509" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-1dba8a6dc7b74538ab76ecec18d4c48e" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+<text x="100" y="1409" font-size="30">#3. bricks: 31, seam: 4, bottom_outer_radius: 588.0, bottom_inner_radius: 477.9, top_outer_radius: 554.6, top_inner_radius: 450.7</text>
+<text x="40" y="1429" font-size="20"><tspan x="40" dy=".6em">Step1: mark on the</tspan><tspan x="40" dy="1.2em">top of a brick</tspan></text>
+<text x="280" y="1429" font-size="20"><tspan x="280" dy=".6em">Step2: mark angles</tspan><tspan x="280" dy="1.2em">from A and B to the bottom</tspan></text>
+<text x="600" y="1429" font-size="20"><tspan x="600" dy=".6em">Step3: verify bottom</tspan><tspan x="600" dy="1.2em">sizes</tspan></text>
+
+<path id="path-9e67ec80f89f4dc98c63b559f4bec776"  stroke-opacity="0" stroke-width="2" stroke="black" d="M80,1634.0 L91.14999999999999,1634.0" fill="none" />
+
+<text dx="70" dy="1654.0" fill="black" style="transform-box: fill-box; transform-origin: center;" >
+    11.1
+</text>
+
+<text fill="green" x="290" y="1509">DPB</text><circle cx="310" cy="1519" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="540.0" y="1509">DPC</text><circle cx="560.0" cy="1519" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="293.4" y="1609">DPD</text><circle cx="313.4" cy="1619" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-f58f1c87236f4221a51fc3e5c590b581" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M310,1519 L560.0,1519" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-f58f1c87236f4221a51fc3e5c590b581" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-588c8bc0e0df40679de47ae9db810ef1" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M313.4,1619 L310,1519" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-588c8bc0e0df40679de47ae9db810ef1" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="320" y="1539">88.1°</text><circle cx="340" cy="1549" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-9ebd44a452a044cfbf50f183edba88fa"   stroke-width="2" stroke="orange" d="M150.66906339414095,379.5406210707302 L189.70161181847288,327.60340680272043" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-9ebd44a452a044cfbf50f183edba88fa" font-family="Verdana" font-size="14" fill="orange">
+        65.0
+    </textPath>
+</text>
+
+
+<path id="path-a8218ce46fdc4635b654c7de70886694"   stroke-width="2" stroke="orange" d="M189.70161181847288,327.60340680272043 L285.8537151043877,407.47688821986407" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-a8218ce46fdc4635b654c7de70886694" font-family="Verdana" font-size="14" fill="orange">
+        125.0
+    </textPath>
+</text>
+
+
+<path id="path-ff125742ad364e60974b584c37ee897d"   stroke-width="2" stroke="orange" d="M285.8537151043877,407.47688821986407 L254.1328234357,449.6851173485044" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" transform="rotate(180)">
+    <textPath href="#path-ff125742ad364e60974b584c37ee897d" font-family="Verdana" font-size="14" fill="orange">
+        52.8
+    </textPath>
+</text>
+
+
+<path id="path-6713062b012f45249b13dd12843675c3"   stroke-width="2" stroke="orange" d="M254.1328234357,449.6851173485044 L150.66906339414095,379.5406210707302" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-6713062b012f45249b13dd12843675c3" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="169.70161181847288" y="317.60340680272043">#4-TOP</text><circle cx="189.70161181847288" cy="327.60340680272043" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-ce12980820e04c4587d572e733eb836b"   stroke-width="2" stroke="gray" d="M285.8537151043877,407.47688821986407 L703,754" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-ce12980820e04c4587d572e733eb836b" font-family="Verdana" font-size="14" fill="gray">
+        542.3
+    </textPath>
+</text>
+
+<text fill="green" x="60" y="1849">A</text><circle cx="80" cy="1859" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="167.9" y="1849">B</text><circle cx="187.9" cy="1859" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="157.45" y="1974.0">C</text><circle cx="177.45" cy="1984.0" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="70.44999999999999" y="1974.0">D</text><circle cx="90.44999999999999" cy="1984.0" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-552bb9fb5a9040548dbb87d9c3d4f063"   stroke-width="2" stroke="orange" d="M80,1859 L205.0,1859" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-552bb9fb5a9040548dbb87d9c3d4f063" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-439aca1be9ac48d5bf7a4b6719464222"   stroke-width="2" stroke="orange" d="M205.0,1859 L205.0,1984.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-439aca1be9ac48d5bf7a4b6719464222" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-6164e6ffe8824be4974f86012657a024"   stroke-width="2" stroke="orange" d="M205.0,1984.0 L80,1984.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-6164e6ffe8824be4974f86012657a024" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-4b9d8229d39441248fef5bf3e73563ad"   stroke-width="2" stroke="orange" d="M80,1984.0 L80,1859" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-4b9d8229d39441248fef5bf3e73563ad" font-family="Verdana" font-size="14" fill="orange">
+        125.0
+    </textPath>
+</text>
+
+
+<path id="path-40a87fcd07b1405d94bcbb29cfe7bfe7" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M80,1859 L187.9,1859" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" transform="rotate(-20)">
+    <textPath href="#path-40a87fcd07b1405d94bcbb29cfe7bfe7" font-family="Verdana" font-size="14" fill="red">
+        107.9
+    </textPath>
+</text>
+
+
+<path id="path-75a19eb6bfe143f5b0698ee6fcb16730" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M187.9,1859 L177.45,1984.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-75a19eb6bfe143f5b0698ee6fcb16730" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-9797ecea598b4d42af6df3653ee72582" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M177.45,1984.0 L80,1984.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" transform="rotate(150)">
+    <textPath href="#path-9797ecea598b4d42af6df3653ee72582" font-family="Verdana" font-size="14" fill="red">
+        97.4
+    </textPath>
+</text>
+
+
+<path id="path-5f103e5bf8f745a7b74e0b47f2c6a928" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M90.44999999999999,1984.0 L177.45,1984.0" fill="none" />
+
+<text dx="100.44999999999999" dy="1974.0" fill="red" style="transform-box: fill-box; transform-origin: center;" >
+    87.0
+</text>
+
+
+<path id="path-f868c92203774398b03b50acb2df479a" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M90.44999999999999,1984.0 L80,1859" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-f868c92203774398b03b50acb2df479a" font-family="Verdana" font-size="14" fill="red">
+         
+    </textPath>
+</text>
+
+<text fill="green" x="630" y="1849">E</text><circle cx="650" cy="1859" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="730.0" y="1849">F</text><circle cx="750.0" cy="1859" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="720.25" y="1974.0">G</text><circle cx="740.25" cy="1984.0" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="639.75" y="1974.0">H</text><circle cx="659.75" cy="1984.0" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-b978eb264c2c4632b58f77d5bdecc424"   stroke-width="2" stroke="gray" d="M650,1859 L750.0,1859" fill="none" />
+
+<text dx="640" dy="1849" fill="gray" style="transform-box: fill-box; transform-origin: center;" >
+    100.0
+</text>
+
+
+<path id="path-1ba1942ea7444bb09c24f8069bf16355"   stroke-width="2" stroke="gray" d="M750.0,1859 L740.25,1984.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-1ba1942ea7444bb09c24f8069bf16355" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+
+<path id="path-131469297d1649d98ef7c5d05ce3207b"   stroke-width="2" stroke="gray" d="M740.25,1984.0 L659.75,1984.0" fill="none" />
+
+<text dx="730.25" dy="2004.0" fill="gray" style="transform-box: fill-box; transform-origin: center;" >
+    80.5
+</text>
+
+
+<path id="path-fdb80855f9fa4f7bb176baedf856b3b3"   stroke-width="2" stroke="gray" d="M659.75,1984.0 L650,1859" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-fdb80855f9fa4f7bb176baedf856b3b3" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+<text x="100" y="1759" font-size="30">#4. bricks: 31, seam: 4, bottom_outer_radius: 552.3, bottom_inner_radius: 448.9, top_outer_radius: 513.3, top_inner_radius: 417.1</text>
+<text x="40" y="1779" font-size="20"><tspan x="40" dy=".6em">Step1: mark on the</tspan><tspan x="40" dy="1.2em">top of a brick</tspan></text>
+<text x="280" y="1779" font-size="20"><tspan x="280" dy=".6em">Step2: mark angles</tspan><tspan x="280" dy="1.2em">from A and B to the bottom</tspan></text>
+<text x="600" y="1779" font-size="20"><tspan x="600" dy=".6em">Step3: verify bottom</tspan><tspan x="600" dy="1.2em">sizes</tspan></text>
+
+<path id="path-ce8ba0229e89444a903172dcb0adac5b"  stroke-opacity="0" stroke-width="2" stroke="black" d="M80,1984.0 L90.44999999999999,1984.0" fill="none" />
+
+<text dx="70" dy="2004.0" fill="black" style="transform-box: fill-box; transform-origin: center;" >
+    10.4
+</text>
+
+<text fill="green" x="290" y="1859">DPB</text><circle cx="310" cy="1869" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="540.0" y="1859">DPC</text><circle cx="560.0" cy="1869" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="293.95" y="1959">DPD</text><circle cx="313.95" cy="1969" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-0d5109b098654ae58771a3873a4bc22c" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M310,1869 L560.0,1869" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-0d5109b098654ae58771a3873a4bc22c" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-6fc1ee6c8e8847b3b70533c76f81b529" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M313.95,1969 L310,1869" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-6fc1ee6c8e8847b3b70533c76f81b529" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="320" y="1889">87.7°</text><circle cx="340" cy="1899" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-31ad5641c6064a0b9687bafb8d4f08c6"   stroke-width="2" stroke="orange" d="M192.26921537068154,324.5313100679857 L236.45403379465318,276.90027099408303" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-31ad5641c6064a0b9687bafb8d4f08c6" font-family="Verdana" font-size="14" fill="orange">
+        65.0
+    </textPath>
+</text>
+
+
+<path id="path-cacbd9fbda6c4e00a3dfb68d46b3ccdd"   stroke-width="2" stroke="orange" d="M236.45403379465318,276.90027099408303 L323.8483778313209,366.27156745105833" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-cacbd9fbda6c4e00a3dfb68d46b3ccdd" font-family="Verdana" font-size="14" fill="orange">
+        125.0
+    </textPath>
+</text>
+
+
+<path id="path-88b28bd96f1d488c829a2b1affcbf184"   stroke-width="2" stroke="orange" d="M323.8483778313209,366.27156745105833 L287.94034991086556,404.9802629250242" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" transform="rotate(180)">
+    <textPath href="#path-88b28bd96f1d488c829a2b1affcbf184" font-family="Verdana" font-size="14" fill="orange">
+        52.8
+    </textPath>
+</text>
+
+
+<path id="path-dff055b230c442508964e1d5906a2f5c"   stroke-width="2" stroke="orange" d="M287.94034991086556,404.9802629250242 L192.26921537068154,324.5313100679857" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-dff055b230c442508964e1d5906a2f5c" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="216.45403379465318" y="266.90027099408303">#5-TOP</text><circle cx="236.45403379465318" cy="276.90027099408303" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-8c4897602fb340ac8b000ebfe1342f9b"   stroke-width="2" stroke="gray" d="M323.8483778313209,366.27156745105833 L703,754" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-8c4897602fb340ac8b000ebfe1342f9b" font-family="Verdana" font-size="14" fill="gray">
+        542.3
+    </textPath>
+</text>
+
+<text fill="green" x="60" y="2199">A</text><circle cx="80" cy="2209" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="159.5" y="2199">B</text><circle cx="179.5" cy="2209" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="149.8" y="2324.0">C</text><circle cx="169.8" cy="2334.0" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="69.7" y="2324.0">D</text><circle cx="89.7" cy="2334.0" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-5184e9e34852497b9f59496904b357fc"   stroke-width="2" stroke="orange" d="M80,2209 L205.0,2209" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-5184e9e34852497b9f59496904b357fc" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-044aa192ae1541e0a0f085305de32f83"   stroke-width="2" stroke="orange" d="M205.0,2209 L205.0,2334.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-044aa192ae1541e0a0f085305de32f83" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-7d89165c8276468f8bebc512ebce5e06"   stroke-width="2" stroke="orange" d="M205.0,2334.0 L80,2334.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-7d89165c8276468f8bebc512ebce5e06" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-56c35b3d2f274d5bbf28b91ad9fc5401"   stroke-width="2" stroke="orange" d="M80,2334.0 L80,2209" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-56c35b3d2f274d5bbf28b91ad9fc5401" font-family="Verdana" font-size="14" fill="orange">
+        125.0
+    </textPath>
+</text>
+
+
+<path id="path-4038c40ecbba40418899b33f429102ea" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M80,2209 L179.5,2209" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" transform="rotate(-20)">
+    <textPath href="#path-4038c40ecbba40418899b33f429102ea" font-family="Verdana" font-size="14" fill="red">
+        99.5
+    </textPath>
+</text>
+
+
+<path id="path-9059795ddbfa43f482334a991415c905" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M179.5,2209 L169.8,2334.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-9059795ddbfa43f482334a991415c905" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-52f9ac9b88784c188ad0685484579a33" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M169.8,2334.0 L80,2334.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" transform="rotate(150)">
+    <textPath href="#path-52f9ac9b88784c188ad0685484579a33" font-family="Verdana" font-size="14" fill="red">
+        89.8
+    </textPath>
+</text>
+
+
+<path id="path-559ffbd58d5f40cd823234c90bdea34d" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M89.7,2334.0 L169.8,2334.0" fill="none" />
+
+<text dx="99.7" dy="2324.0" fill="red" style="transform-box: fill-box; transform-origin: center;" >
+    80.1
+</text>
+
+
+<path id="path-54ea53290d814ff19ba8d7f0918e4ea7" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M89.7,2334.0 L80,2209" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-54ea53290d814ff19ba8d7f0918e4ea7" font-family="Verdana" font-size="14" fill="red">
+         
+    </textPath>
+</text>
+
+<text fill="green" x="630" y="2199">E</text><circle cx="650" cy="2209" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="720.6" y="2199">F</text><circle cx="740.6" cy="2209" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="711.75" y="2324.0">G</text><circle cx="731.75" cy="2334.0" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="638.8499999999999" y="2324.0">H</text><circle cx="658.8499999999999" cy="2334.0" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-2263a74f179f447cb9a6057ee2aaf85a"   stroke-width="2" stroke="gray" d="M650,2209 L740.6,2209" fill="none" />
+
+<text dx="640" dy="2199" fill="gray" style="transform-box: fill-box; transform-origin: center;" >
+    90.6
+</text>
+
+
+<path id="path-0e2ae762d2b34c24b4abcc82e673d90a"   stroke-width="2" stroke="gray" d="M740.6,2209 L731.75,2334.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-0e2ae762d2b34c24b4abcc82e673d90a" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+
+<path id="path-ea4825e6e8a9449f813e7c7b4f0e828c"   stroke-width="2" stroke="gray" d="M731.75,2334.0 L658.8499999999999,2334.0" fill="none" />
+
+<text dx="721.75" dy="2354.0" fill="gray" style="transform-box: fill-box; transform-origin: center;" >
+    72.9
+</text>
+
+
+<path id="path-e402ea68b0b6444fb5faa6488eb040b4"   stroke-width="2" stroke="gray" d="M658.8499999999999,2334.0 L650,2209" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-e402ea68b0b6444fb5faa6488eb040b4" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+<text x="100" y="2109" font-size="30">#5. bricks: 31, seam: 4, bottom_outer_radius: 510.7, bottom_inner_radius: 415.1, top_outer_radius: 466.5, top_inner_radius: 379.2</text>
+<text x="40" y="2129" font-size="20"><tspan x="40" dy=".6em">Step1: mark on the</tspan><tspan x="40" dy="1.2em">top of a brick</tspan></text>
+<text x="280" y="2129" font-size="20"><tspan x="280" dy=".6em">Step2: mark angles</tspan><tspan x="280" dy="1.2em">from A and B to the bottom</tspan></text>
+<text x="600" y="2129" font-size="20"><tspan x="600" dy=".6em">Step3: verify bottom</tspan><tspan x="600" dy="1.2em">sizes</tspan></text>
+
+<path id="path-a29cdc223328454da0971ac3b1b4d659"  stroke-opacity="0" stroke-width="2" stroke="black" d="M80,2334.0 L89.7,2334.0" fill="none" />
+
+<text dx="70" dy="2354.0" fill="black" style="transform-box: fill-box; transform-origin: center;" >
+    9.7
+</text>
+
+<text fill="green" x="290" y="2209">DPB</text><circle cx="310" cy="2219" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="540.0" y="2209">DPC</text><circle cx="560.0" cy="2219" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="294.45" y="2309">DPD</text><circle cx="314.45" cy="2319" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-0bb50c71b83c4b6cb4413f1c09235364" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M310,2219 L560.0,2219" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-0bb50c71b83c4b6cb4413f1c09235364" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-1e0cf99a7cc84ed4986f987ac5904374" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M314.45,2319 L310,2219" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-1e0cf99a7cc84ed4986f987ac5904374" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="320" y="2239">87.5°</text><circle cx="340" cy="2249" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-2562401c34464999b16ec0f9778c83fa"   stroke-width="2" stroke="orange" d="M239.3250127953337,274.10959976182846 L288.1901173269121,231.29353243264813" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-2562401c34464999b16ec0f9778c83fa" font-family="Verdana" font-size="14" fill="orange">
+        65.0
+    </textPath>
+</text>
+
+
+<path id="path-bafad1b0a9af4b559131c255d73122ab"   stroke-width="2" stroke="orange" d="M288.1901173269121,231.29353243264813 L365.89315244475415,329.2079763797769" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-bafad1b0a9af4b559131c255d73122ab" font-family="Verdana" font-size="14" fill="orange">
+        125.0
+    </textPath>
+</text>
+
+
+<path id="path-3a214984868c47408b769cfe136395c3"   stroke-width="2" stroke="orange" d="M365.89315244475415,329.2079763797769 L326.1815591771459,364.00365045832393" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" transform="rotate(180)">
+    <textPath href="#path-3a214984868c47408b769cfe136395c3" font-family="Verdana" font-size="14" fill="orange">
+        52.8
+    </textPath>
+</text>
+
+
+<path id="path-5b5bf79729324b1692f706056013d957"   stroke-width="2" stroke="orange" d="M326.1815591771459,364.00365045832393 L239.3250127953337,274.10959976182846" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-5b5bf79729324b1692f706056013d957" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="268.1901173269121" y="221.29353243264813">#6-TOP</text><circle cx="288.1901173269121" cy="231.29353243264813" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-3237f168bd434ad3863963c7a0a976d5"   stroke-width="2" stroke="gray" d="M365.89315244475415,329.2079763797769 L703,754" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-3237f168bd434ad3863963c7a0a976d5" font-family="Verdana" font-size="14" fill="gray">
+        542.3
+    </textPath>
+</text>
+
+<text fill="green" x="60" y="2549">A</text><circle cx="80" cy="2559" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="150.0" y="2549">B</text><circle cx="170.0" cy="2559" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="141.2" y="2674.0">C</text><circle cx="161.2" cy="2684.0" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="68.8" y="2674.0">D</text><circle cx="88.8" cy="2684.0" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-741cb7755ce44ab594282cc9224fbcf0"   stroke-width="2" stroke="orange" d="M80,2559 L205.0,2559" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-741cb7755ce44ab594282cc9224fbcf0" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-880844554a93433788aa3b5f93c0d920"   stroke-width="2" stroke="orange" d="M205.0,2559 L205.0,2684.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-880844554a93433788aa3b5f93c0d920" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-51d8482e89f04563bdbedd9841b69a1d"   stroke-width="2" stroke="orange" d="M205.0,2684.0 L80,2684.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-51d8482e89f04563bdbedd9841b69a1d" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-d06471b4c9ea48179010bfc41eb35b63"   stroke-width="2" stroke="orange" d="M80,2684.0 L80,2559" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-d06471b4c9ea48179010bfc41eb35b63" font-family="Verdana" font-size="14" fill="orange">
+        125.0
+    </textPath>
+</text>
+
+
+<path id="path-33128e29424c47ccb6b34c08e27c7b4d" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M80,2559 L170.0,2559" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" transform="rotate(-20)">
+    <textPath href="#path-33128e29424c47ccb6b34c08e27c7b4d" font-family="Verdana" font-size="14" fill="red">
+        90.0
+    </textPath>
+</text>
+
+
+<path id="path-bf838dac174a47b8b81d794dcca1a335" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M170.0,2559 L161.2,2684.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-bf838dac174a47b8b81d794dcca1a335" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-5886b5fcb4a545fbb07fce1cd7653a8a" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M161.2,2684.0 L80,2684.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" transform="rotate(150)">
+    <textPath href="#path-5886b5fcb4a545fbb07fce1cd7653a8a" font-family="Verdana" font-size="14" fill="red">
+        81.2
+    </textPath>
+</text>
+
+
+<path id="path-8ff11fee1f154874b988b6740950555d" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M88.8,2684.0 L161.2,2684.0" fill="none" />
+
+<text dx="98.8" dy="2674.0" fill="red" style="transform-box: fill-box; transform-origin: center;" >
+    72.4
+</text>
+
+
+<path id="path-56f346eea1034ec9830884c34edd31eb" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M88.8,2684.0 L80,2559" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-56f346eea1034ec9830884c34edd31eb" font-family="Verdana" font-size="14" fill="red">
+         
+    </textPath>
+</text>
+
+<text fill="green" x="630" y="2549">E</text><circle cx="650" cy="2559" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="710.1" y="2549">F</text><circle cx="730.1" cy="2559" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="702.1999999999999" y="2674.0">G</text><circle cx="722.1999999999999" cy="2684.0" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="637.9" y="2674.0">H</text><circle cx="657.9" cy="2684.0" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-a5311205b4f540f6b13aee69afa27013"   stroke-width="2" stroke="gray" d="M650,2559 L730.1,2559" fill="none" />
+
+<text dx="640" dy="2549" fill="gray" style="transform-box: fill-box; transform-origin: center;" >
+    80.1
+</text>
+
+
+<path id="path-5fd7c810c7754a218975c51024123b03"   stroke-width="2" stroke="gray" d="M730.1,2559 L722.1999999999999,2684.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-5fd7c810c7754a218975c51024123b03" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+
+<path id="path-7de36593671d48d6adcda5cfe1270a56"   stroke-width="2" stroke="gray" d="M722.1999999999999,2684.0 L657.9,2684.0" fill="none" />
+
+<text dx="712.1999999999999" dy="2704.0" fill="gray" style="transform-box: fill-box; transform-origin: center;" >
+    64.3
+</text>
+
+
+<path id="path-9fb5f036e36440a39f9585b4cf14fe34"   stroke-width="2" stroke="gray" d="M657.9,2684.0 L650,2559" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-9fb5f036e36440a39f9585b4cf14fe34" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+<text x="100" y="2459" font-size="30">#6. bricks: 31, seam: 4, bottom_outer_radius: 463.7, bottom_inner_radius: 376.8, top_outer_radius: 414.8, top_inner_radius: 337.1</text>
+<text x="40" y="2479" font-size="20"><tspan x="40" dy=".6em">Step1: mark on the</tspan><tspan x="40" dy="1.2em">top of a brick</tspan></text>
+<text x="280" y="2479" font-size="20"><tspan x="280" dy=".6em">Step2: mark angles</tspan><tspan x="280" dy="1.2em">from A and B to the bottom</tspan></text>
+<text x="600" y="2479" font-size="20"><tspan x="600" dy=".6em">Step3: verify bottom</tspan><tspan x="600" dy="1.2em">sizes</tspan></text>
+
+<path id="path-dca7a98f638944d1951242fb2a0f1481"  stroke-opacity="0" stroke-width="2" stroke="black" d="M80,2684.0 L88.8,2684.0" fill="none" />
+
+<text dx="70" dy="2704.0" fill="black" style="transform-box: fill-box; transform-origin: center;" >
+    8.8
+</text>
+
+<text fill="green" x="290" y="2559">DPB</text><circle cx="310" cy="2569" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="540.0" y="2559">DPC</text><circle cx="560.0" cy="2569" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="294.95" y="2659">DPD</text><circle cx="314.95" cy="2669" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-b83af96479894b08ae1d7667f5111453" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M310,2569 L560.0,2569" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-b83af96479894b08ae1d7667f5111453" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-4950050e0de1473c8e035f2b4e2d75f7" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M314.95,2669 L310,2569" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-4950050e0de1473c8e035f2b4e2d75f7" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="320" y="2589">87.2°</text><circle cx="340" cy="2599" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-27fadf3bff2b4214b583e1bcad4a85ef"   stroke-width="2" stroke="orange" d="M291.33380387041234,228.8140967579235 L344.35721562535485,191.2703640148302" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-27fadf3bff2b4214b583e1bcad4a85ef" font-family="Verdana" font-size="14" fill="orange">
+        65.0
+    </textPath>
+</text>
+
+
+<path id="path-652c2b53440b4c279d009fccfc0f5d21"   stroke-width="2" stroke="orange" d="M344.35721562535485,191.2703640148302 L411.53891508111786,296.6820296796679" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-652c2b53440b4c279d009fccfc0f5d21" font-family="Verdana" font-size="14" fill="orange">
+        125.0
+    </textPath>
+</text>
+
+
+<path id="path-1f1a19849e0c43bf844edcfaa74b0c54"   stroke-width="2" stroke="orange" d="M411.53891508111786,296.6820296796679 L368.44795719904783,327.19299366375225" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" transform="rotate(180)">
+    <textPath href="#path-1f1a19849e0c43bf844edcfaa74b0c54" font-family="Verdana" font-size="14" fill="orange">
+        52.8
+    </textPath>
+</text>
+
+
+<path id="path-4129ec3226ca4ac28c30fd1dd7af2e02"   stroke-width="2" stroke="orange" d="M368.44795719904783,327.19299366375225 L291.33380387041234,228.8140967579235" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-4129ec3226ca4ac28c30fd1dd7af2e02" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="324.35721562535485" y="181.2703640148302">#7-TOP</text><circle cx="344.35721562535485" cy="191.2703640148302" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-b995a6db6aaf4a009defb0e6ba28cfac"   stroke-width="2" stroke="gray" d="M411.53891508111786,296.6820296796679 L703,754" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-b995a6db6aaf4a009defb0e6ba28cfac" font-family="Verdana" font-size="14" fill="gray">
+        542.3
+    </textPath>
+</text>
+
+<text fill="green" x="60" y="2899">A</text><circle cx="80" cy="2909" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="139.4" y="2899">B</text><circle cx="159.4" cy="2909" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="131.6" y="3024.0">C</text><circle cx="151.6" cy="3034.0" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="67.80000000000001" y="3024.0">D</text><circle cx="87.80000000000001" cy="3034.0" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-52d4dbab36e940a082bbb6f2cac8418b"   stroke-width="2" stroke="orange" d="M80,2909 L205.0,2909" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-52d4dbab36e940a082bbb6f2cac8418b" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-1ade02329c814b968ae7ba326f38b336"   stroke-width="2" stroke="orange" d="M205.0,2909 L205.0,3034.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-1ade02329c814b968ae7ba326f38b336" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-05e6b30e9a3345669a8d0691ecb76ef4"   stroke-width="2" stroke="orange" d="M205.0,3034.0 L80,3034.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-05e6b30e9a3345669a8d0691ecb76ef4" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-e5e1441f97384a1885f1077e0e23f957"   stroke-width="2" stroke="orange" d="M80,3034.0 L80,2909" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-e5e1441f97384a1885f1077e0e23f957" font-family="Verdana" font-size="14" fill="orange">
+        125.0
+    </textPath>
+</text>
+
+
+<path id="path-a2fcbf565c6a461dbaa6556a1c64399f" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M80,2909 L159.4,2909" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" transform="rotate(-20)">
+    <textPath href="#path-a2fcbf565c6a461dbaa6556a1c64399f" font-family="Verdana" font-size="14" fill="red">
+        79.4
+    </textPath>
+</text>
+
+
+<path id="path-7d633012887a41598cb1fcbbd760b970" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M159.4,2909 L151.6,3034.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-7d633012887a41598cb1fcbbd760b970" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-c7318d5996af438789de8f7c4140f68a" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M151.6,3034.0 L80,3034.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" transform="rotate(150)">
+    <textPath href="#path-c7318d5996af438789de8f7c4140f68a" font-family="Verdana" font-size="14" fill="red">
+        71.6
+    </textPath>
+</text>
+
+
+<path id="path-82dd6ada0abc4fa482b77cb32dbb2088" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M87.80000000000001,3034.0 L151.6,3034.0" fill="none" />
+
+<text dx="97.80000000000001" dy="3024.0" fill="red" style="transform-box: fill-box; transform-origin: center;" >
+    63.8
+</text>
+
+
+<path id="path-707d28cb10d3432197c40e609612d95a" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M87.80000000000001,3034.0 L80,2909" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-707d28cb10d3432197c40e609612d95a" font-family="Verdana" font-size="14" fill="red">
+         
+    </textPath>
+</text>
+
+<text fill="green" x="630" y="2899">E</text><circle cx="650" cy="2909" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="698.7" y="2899">F</text><circle cx="718.7" cy="2909" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="691.9" y="3024.0">G</text><circle cx="711.9" cy="3034.0" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="636.8000000000001" y="3024.0">H</text><circle cx="656.8000000000001" cy="3034.0" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-98fab032a8bc4d1b930766e1a7ad4168"   stroke-width="2" stroke="gray" d="M650,2909 L718.7,2909" fill="none" />
+
+<text dx="640" dy="2899" fill="gray" style="transform-box: fill-box; transform-origin: center;" >
+    68.7
+</text>
+
+
+<path id="path-24d9a4c02b6948d283b289b563f0fb61"   stroke-width="2" stroke="gray" d="M718.7,2909 L711.9,3034.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-24d9a4c02b6948d283b289b563f0fb61" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+
+<path id="path-71c03f1c987342ad81ef775ec166b136"   stroke-width="2" stroke="gray" d="M711.9,3034.0 L656.8000000000001,3034.0" fill="none" />
+
+<text dx="701.9" dy="3054.0" fill="gray" style="transform-box: fill-box; transform-origin: center;" >
+    55.1
+</text>
+
+
+<path id="path-0634c162ffdf4b529d55c80dbacb95a3"   stroke-width="2" stroke="gray" d="M656.8000000000001,3034.0 L650,2909" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-0634c162ffdf4b529d55c80dbacb95a3" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+<text x="100" y="2809" font-size="30">#7. bricks: 31, seam: 4, bottom_outer_radius: 411.7, bottom_inner_radius: 334.6, top_outer_radius: 358.6, top_inner_radius: 291.5</text>
+<text x="40" y="2829" font-size="20"><tspan x="40" dy=".6em">Step1: mark on the</tspan><tspan x="40" dy="1.2em">top of a brick</tspan></text>
+<text x="280" y="2829" font-size="20"><tspan x="280" dy=".6em">Step2: mark angles</tspan><tspan x="280" dy="1.2em">from A and B to the bottom</tspan></text>
+<text x="600" y="2829" font-size="20"><tspan x="600" dy=".6em">Step3: verify bottom</tspan><tspan x="600" dy="1.2em">sizes</tspan></text>
+
+<path id="path-058cfc5c76a74ae1976b3d9635c6e0d8"  stroke-opacity="0" stroke-width="2" stroke="black" d="M80,3034.0 L87.80000000000001,3034.0" fill="none" />
+
+<text dx="70" dy="3054.0" fill="black" style="transform-box: fill-box; transform-origin: center;" >
+    7.8
+</text>
+
+<text fill="green" x="290" y="2909">DPB</text><circle cx="310" cy="2919" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="540.0" y="2909">DPC</text><circle cx="560.0" cy="2919" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="295.34999999999997" y="3009">DPD</text><circle cx="315.34999999999997" cy="3019" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-de9521d6f5484f038c9484ec7d69c05b" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M310,2919 L560.0,2919" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-de9521d6f5484f038c9484ec7d69c05b" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-8dbeb42617a1407580eef9bb7c0069d7" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M315.34999999999997,3019 L310,2919" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-8dbeb42617a1407580eef9bb7c0069d7" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="320" y="2939">86.9°</text><circle cx="340" cy="2949" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-0034f04417bd416db917c62b5a079068"   stroke-width="2" stroke="orange" d="M347.74002873379465,189.12864932275522 L404.3553496337199,157.25829473079204" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-0034f04417bd416db917c62b5a079068" font-family="Verdana" font-size="14" fill="orange">
+        65.0
+    </textPath>
+</text>
+
+
+<path id="path-1e44e094e6e84765ac9cc6cc7fbf3f1b"   stroke-width="2" stroke="orange" d="M404.3553496337199,157.25829473079204 L460.29807598736147,269.041170736563" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-1e44e094e6e84765ac9cc6cc7fbf3f1b" font-family="Verdana" font-size="14" fill="orange">
+        125.0
+    </textPath>
+</text>
+
+
+<path id="path-8c4e6d64a1594f519f260c8510837292"   stroke-width="2" stroke="orange" d="M460.29807598736147,269.041170736563 L414.288052723418,294.9415053615018" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" transform="rotate(180)">
+    <textPath href="#path-8c4e6d64a1594f519f260c8510837292" font-family="Verdana" font-size="14" fill="orange">
+        52.8
+    </textPath>
+</text>
+
+
+<path id="path-d5371cd969f14645a56c620ba4966e51"   stroke-width="2" stroke="orange" d="M414.288052723418,294.9415053615018 L347.74002873379465,189.12864932275522" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-d5371cd969f14645a56c620ba4966e51" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="384.3553496337199" y="147.25829473079204">#8-TOP</text><circle cx="404.3553496337199" cy="157.25829473079204" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-329d76ada38e4db48938c1c9b636dc66"   stroke-width="2" stroke="gray" d="M460.29807598736147,269.041170736563 L703,754" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-329d76ada38e4db48938c1c9b636dc66" font-family="Verdana" font-size="14" fill="gray">
+        542.3
+    </textPath>
+</text>
+
+<text fill="green" x="60" y="3249">A</text><circle cx="80" cy="3259" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="128.0" y="3249">B</text><circle cx="148.0" cy="3259" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="121.25" y="3374.0">C</text><circle cx="141.25" cy="3384.0" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="66.75" y="3374.0">D</text><circle cx="86.75" cy="3384.0" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-a748e3a0b28b4c59bca36f6ba1373f62"   stroke-width="2" stroke="orange" d="M80,3259 L205.0,3259" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-a748e3a0b28b4c59bca36f6ba1373f62" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-a2a4c8231a214d278ba4cdf4633fd6cb"   stroke-width="2" stroke="orange" d="M205.0,3259 L205.0,3384.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-a2a4c8231a214d278ba4cdf4633fd6cb" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-f341d6aec49a4b2384efc8cdfa06141f"   stroke-width="2" stroke="orange" d="M205.0,3384.0 L80,3384.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-f341d6aec49a4b2384efc8cdfa06141f" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-e6832d965c034949bbb0a3267b5bd433"   stroke-width="2" stroke="orange" d="M80,3384.0 L80,3259" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-e6832d965c034949bbb0a3267b5bd433" font-family="Verdana" font-size="14" fill="orange">
+        125.0
+    </textPath>
+</text>
+
+
+<path id="path-16dc4ce94ec043689ef8d9190bc10a8a" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M80,3259 L148.0,3259" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" transform="rotate(-20)">
+    <textPath href="#path-16dc4ce94ec043689ef8d9190bc10a8a" font-family="Verdana" font-size="14" fill="red">
+        68.0
+    </textPath>
+</text>
+
+
+<path id="path-ae4f5d1081374f5f9b288d1b20d270ff" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M148.0,3259 L141.25,3384.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-ae4f5d1081374f5f9b288d1b20d270ff" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-75522cdad53b43c78e4b9fa1a5efc33a" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M141.25,3384.0 L80,3384.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" transform="rotate(150)">
+    <textPath href="#path-75522cdad53b43c78e4b9fa1a5efc33a" font-family="Verdana" font-size="14" fill="red">
+        61.2
+    </textPath>
+</text>
+
+
+<path id="path-b0a23115f51948de81706de9083de02a" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M86.75,3384.0 L141.25,3384.0" fill="none" />
+
+<text dx="96.75" dy="3374.0" fill="red" style="transform-box: fill-box; transform-origin: center;" >
+    54.5
+</text>
+
+
+<path id="path-7833fb92a9554a15b635a9c8dec80040" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M86.75,3384.0 L80,3259" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-7833fb92a9554a15b635a9c8dec80040" font-family="Verdana" font-size="14" fill="red">
+         
+    </textPath>
+</text>
+
+<text fill="green" x="630" y="3249">E</text><circle cx="650" cy="3259" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="686.5" y="3249">F</text><circle cx="706.5" cy="3259" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="680.85" y="3374.0">G</text><circle cx="700.85" cy="3384.0" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="635.65" y="3374.0">H</text><circle cx="655.65" cy="3384.0" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-797dcdcf5ad44de687080deb36e99971"   stroke-width="2" stroke="gray" d="M650,3259 L706.5,3259" fill="none" />
+
+<text dx="640" dy="3249" fill="gray" style="transform-box: fill-box; transform-origin: center;" >
+    56.5
+</text>
+
+
+<path id="path-b8f0bde883404720ac0219a5f190df7a"   stroke-width="2" stroke="gray" d="M706.5,3259 L700.85,3384.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-b8f0bde883404720ac0219a5f190df7a" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+
+<path id="path-98b975e8931f4a84983af2864f4973d9"   stroke-width="2" stroke="gray" d="M700.85,3384.0 L655.65,3384.0" fill="none" />
+
+<text dx="690.85" dy="3404.0" fill="gray" style="transform-box: fill-box; transform-origin: center;" >
+    45.2
+</text>
+
+
+<path id="path-befc7cd9a93c434a9e37993b4d784c06"   stroke-width="2" stroke="gray" d="M655.65,3384.0 L650,3259" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-befc7cd9a93c434a9e37993b4d784c06" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+<text x="100" y="3159" font-size="30">#8. bricks: 31, seam: 4, bottom_outer_radius: 355.3, bottom_inner_radius: 288.7, top_outer_radius: 298.6, top_inner_radius: 242.7</text>
+<text x="40" y="3179" font-size="20"><tspan x="40" dy=".6em">Step1: mark on the</tspan><tspan x="40" dy="1.2em">top of a brick</tspan></text>
+<text x="280" y="3179" font-size="20"><tspan x="280" dy=".6em">Step2: mark angles</tspan><tspan x="280" dy="1.2em">from A and B to the bottom</tspan></text>
+<text x="600" y="3179" font-size="20"><tspan x="600" dy=".6em">Step3: verify bottom</tspan><tspan x="600" dy="1.2em">sizes</tspan></text>
+
+<path id="path-d7559e6fe14b47e99b3626ce1e54c761"  stroke-opacity="0" stroke-width="2" stroke="black" d="M80,3384.0 L86.75,3384.0" fill="none" />
+
+<text dx="70" dy="3404.0" fill="black" style="transform-box: fill-box; transform-origin: center;" >
+    6.8
+</text>
+
+<text fill="green" x="290" y="3259">DPB</text><circle cx="310" cy="3269" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="540.0" y="3259">DPC</text><circle cx="560.0" cy="3269" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="295.75" y="3359">DPD</text><circle cx="315.75" cy="3369" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-82c7988be83b425ba8936242fdfba03d" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M310,3269 L560.0,3269" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-82c7988be83b425ba8936242fdfba03d" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-4a81f0a8ae034d09b3417f9b9bb821de" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M315.75,3369 L310,3269" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-4a81f0a8ae034d09b3417f9b9bb821de" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="320" y="3289">86.7°</text><circle cx="340" cy="3299" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-d2cc86d69e1447e492df6e530f71fe54"   stroke-width="2" stroke="orange" d="M407.94115397025985,155.47717889824946 L467.5436170281264,129.6206427837302" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-d2cc86d69e1447e492df6e530f71fe54" font-family="Verdana" font-size="14" fill="orange">
+        65.0
+    </textPath>
+</text>
+
+
+<path id="path-4aaf42169eec4c7bb41ba942a43ec50e"   stroke-width="2" stroke="orange" d="M467.5436170281264,129.6206427837302 L511.6497879729551,246.58066024519235" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-4aaf42169eec4c7bb41ba942a43ec50e" font-family="Verdana" font-size="14" fill="orange">
+        125.0
+    </textPath>
+</text>
+
+
+<path id="path-eab43f9715554920bdc8231ca69cb3bd"   stroke-width="2" stroke="orange" d="M511.6497879729551,246.58066024519235 L463.2121801259882,267.5936971624767" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" transform="rotate(180)">
+    <textPath href="#path-eab43f9715554920bdc8231ca69cb3bd" font-family="Verdana" font-size="14" fill="orange">
+        52.8
+    </textPath>
+</text>
+
+
+<path id="path-e2ab23f4ab8744f8b430bd5fdfbbff17"   stroke-width="2" stroke="orange" d="M463.2121801259882,267.5936971624767 L407.94115397025985,155.47717889824946" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-e2ab23f4ab8744f8b430bd5fdfbbff17" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="447.5436170281264" y="119.6206427837302">#9-TOP</text><circle cx="467.5436170281264" cy="129.6206427837302" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-f2620322fec444319adc2d2dc66c0ba9"   stroke-width="2" stroke="gray" d="M511.6497879729551,246.58066024519235 L703,754" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-f2620322fec444319adc2d2dc66c0ba9" font-family="Verdana" font-size="14" fill="gray">
+        542.3
+    </textPath>
+</text>
+
+<text fill="green" x="60" y="3599">A</text><circle cx="80" cy="3609" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="115.80000000000001" y="3599">B</text><circle cx="135.8" cy="3609" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="110.20000000000002" y="3724.0">C</text><circle cx="130.20000000000002" cy="3734.0" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="65.60000000000001" y="3724.0">D</text><circle cx="85.60000000000001" cy="3734.0" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-ad286a1dae18459a9fdd3596cdaca689"   stroke-width="2" stroke="orange" d="M80,3609 L205.0,3609" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-ad286a1dae18459a9fdd3596cdaca689" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-40e6ac7136f1476782c640899cca8cb8"   stroke-width="2" stroke="orange" d="M205.0,3609 L205.0,3734.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-40e6ac7136f1476782c640899cca8cb8" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-8ae34ae472c84c4888cdc0b5f30b59ea"   stroke-width="2" stroke="orange" d="M205.0,3734.0 L80,3734.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-8ae34ae472c84c4888cdc0b5f30b59ea" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-767e7b8747a5408388b3d023d7946f48"   stroke-width="2" stroke="orange" d="M80,3734.0 L80,3609" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-767e7b8747a5408388b3d023d7946f48" font-family="Verdana" font-size="14" fill="orange">
+        125.0
+    </textPath>
+</text>
+
+
+<path id="path-9272b2798ffe47fa92e0705a383105fc" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M80,3609 L135.8,3609" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" transform="rotate(-20)">
+    <textPath href="#path-9272b2798ffe47fa92e0705a383105fc" font-family="Verdana" font-size="14" fill="red">
+        55.8
+    </textPath>
+</text>
+
+
+<path id="path-de9d038293754a53b433617d0307dc24" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M135.8,3609 L130.20000000000002,3734.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-de9d038293754a53b433617d0307dc24" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-14c35f33a0114a8883db004dae0ad591" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M130.20000000000002,3734.0 L80,3734.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" transform="rotate(150)">
+    <textPath href="#path-14c35f33a0114a8883db004dae0ad591" font-family="Verdana" font-size="14" fill="red">
+        50.2
+    </textPath>
+</text>
+
+
+<path id="path-6d5692d3d3d1401cb39183505aaed451" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M85.60000000000001,3734.0 L130.20000000000002,3734.0" fill="none" />
+
+<text dx="95.60000000000001" dy="3724.0" fill="red" style="transform-box: fill-box; transform-origin: center;" >
+    44.6
+</text>
+
+
+<path id="path-225491a860c344b5b566b1e0a35127a5" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M85.60000000000001,3734.0 L80,3609" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-225491a860c344b5b566b1e0a35127a5" font-family="Verdana" font-size="14" fill="red">
+         
+    </textPath>
+</text>
+
+<text fill="green" x="630" y="3599">E</text><circle cx="650" cy="3609" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="673.7" y="3599">F</text><circle cx="693.7" cy="3609" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="669.25" y="3724.0">G</text><circle cx="689.25" cy="3734.0" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="634.45" y="3724.0">H</text><circle cx="654.45" cy="3734.0" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-a38dc79df7544d66a98f8c592b2c2958"   stroke-width="2" stroke="gray" d="M650,3609 L693.7,3609" fill="none" />
+
+<text dx="640" dy="3599" fill="gray" style="transform-box: fill-box; transform-origin: center;" >
+    43.7
+</text>
+
+
+<path id="path-174c93d6b3ad4c8fb3c82551edde641f"   stroke-width="2" stroke="gray" d="M693.7,3609 L689.25,3734.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-174c93d6b3ad4c8fb3c82551edde641f" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+
+<path id="path-88f6264b2ad141fd8299424da89e07d5"   stroke-width="2" stroke="gray" d="M689.25,3734.0 L654.45,3734.0" fill="none" />
+
+<text dx="679.25" dy="3754.0" fill="gray" style="transform-box: fill-box; transform-origin: center;" >
+    34.8
+</text>
+
+
+<path id="path-3ca1943f78aa4542a6857805115885a4"   stroke-width="2" stroke="gray" d="M654.45,3734.0 L650,3609" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-3ca1943f78aa4542a6857805115885a4" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+<text x="100" y="3509" font-size="30">#9. bricks: 31, seam: 4, bottom_outer_radius: 295.1, bottom_inner_radius: 239.8, top_outer_radius: 235.5, top_inner_radius: 191.4</text>
+<text x="40" y="3529" font-size="20"><tspan x="40" dy=".6em">Step1: mark on the</tspan><tspan x="40" dy="1.2em">top of a brick</tspan></text>
+<text x="280" y="3529" font-size="20"><tspan x="280" dy=".6em">Step2: mark angles</tspan><tspan x="280" dy="1.2em">from A and B to the bottom</tspan></text>
+<text x="600" y="3529" font-size="20"><tspan x="600" dy=".6em">Step3: verify bottom</tspan><tspan x="600" dy="1.2em">sizes</tspan></text>
+
+<path id="path-c2a7b3d45fab4c6d93e5aea664f08017"  stroke-opacity="0" stroke-width="2" stroke="black" d="M80,3734.0 L85.60000000000001,3734.0" fill="none" />
+
+<text dx="70" dy="3754.0" fill="black" style="transform-box: fill-box; transform-origin: center;" >
+    5.6
+</text>
+
+<text fill="green" x="290" y="3609">DPB</text><circle cx="310" cy="3619" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="540.0" y="3609">DPC</text><circle cx="560.0" cy="3619" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="296.04999999999995" y="3709">DPD</text><circle cx="316.04999999999995" cy="3719" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-de566820b329477ba78ce30265c8e14f" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M310,3619 L560.0,3619" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-de566820b329477ba78ce30265c8e14f" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-7108911b10d245d7bbc7c91c15d00543" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M316.04999999999995,3719 L310,3619" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-7108911b10d245d7bbc7c91c15d00543" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="320" y="3639">86.5°</text><circle cx="340" cy="3649" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-261ed3c68f9343fdb43c3b10202fa7fd"   stroke-width="2" stroke="orange" d="M471.294108895986,128.21915175702702 L533.2470383600273,108.65263461105076" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-261ed3c68f9343fdb43c3b10202fa7fd" font-family="Verdana" font-size="14" fill="orange">
+        65.0
+    </textPath>
+</text>
+
+
+<path id="path-644f072eaec24a97a348533df99ea847"   stroke-width="2" stroke="orange" d="M533.2470383600273,108.65263461105076 L565.0455101193509,229.54042222324722" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-644f072eaec24a97a348533df99ea847" font-family="Verdana" font-size="14" fill="orange">
+        125.0
+    </textPath>
+</text>
+
+
+<path id="path-b7b7ba9b3ae9495e89f248902dd8e0d6"   stroke-width="2" stroke="orange" d="M565.0455101193509,229.54042222324722 L514.6977300379039,245.4416993823404" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" transform="rotate(180)">
+    <textPath href="#path-b7b7ba9b3ae9495e89f248902dd8e0d6" font-family="Verdana" font-size="14" fill="orange">
+        52.8
+    </textPath>
+</text>
+
+
+<path id="path-31be9a5b1c6b42d7b6b7cbdeaec03b92"   stroke-width="2" stroke="orange" d="M514.6977300379039,245.4416993823404 L471.294108895986,128.21915175702702" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-31be9a5b1c6b42d7b6b7cbdeaec03b92" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="513.2470383600273" y="98.65263461105076">#10-TOP</text><circle cx="533.2470383600273" cy="108.65263461105076" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-669f6b44eb254dafbe9f451fcc78c554"   stroke-width="2" stroke="gray" d="M565.0455101193509,229.54042222324722 L703,754" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-669f6b44eb254dafbe9f451fcc78c554" font-family="Verdana" font-size="14" fill="gray">
+        542.3
+    </textPath>
+</text>
+
+<text fill="green" x="60" y="3949">A</text><circle cx="80" cy="3959" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="103.0" y="3949">B</text><circle cx="123.0" cy="3959" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="98.6" y="4074.0">C</text><circle cx="118.6" cy="4084.0" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="64.4" y="4074.0">D</text><circle cx="84.4" cy="4084.0" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-1e11485887504c60ac9e2076824e92fd"   stroke-width="2" stroke="orange" d="M80,3959 L205.0,3959" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-1e11485887504c60ac9e2076824e92fd" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-916c72d82a7a463e8d755b9dfadd0ed3"   stroke-width="2" stroke="orange" d="M205.0,3959 L205.0,4084.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-916c72d82a7a463e8d755b9dfadd0ed3" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-a736b21239594cc699eae3399067c46e"   stroke-width="2" stroke="orange" d="M205.0,4084.0 L80,4084.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-a736b21239594cc699eae3399067c46e" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-7d01593f7dc34ac38a3e92e41bc4fbad"   stroke-width="2" stroke="orange" d="M80,4084.0 L80,3959" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-7d01593f7dc34ac38a3e92e41bc4fbad" font-family="Verdana" font-size="14" fill="orange">
+        125.0
+    </textPath>
+</text>
+
+
+<path id="path-f94c7ad52e074df0ad3fbfc216adac4e" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M80,3959 L123.0,3959" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" transform="rotate(-20)">
+    <textPath href="#path-f94c7ad52e074df0ad3fbfc216adac4e" font-family="Verdana" font-size="14" fill="red">
+        43.0
+    </textPath>
+</text>
+
+
+<path id="path-41ede640ac7845a385e3ec5cc235e7ae" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M123.0,3959 L118.6,4084.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-41ede640ac7845a385e3ec5cc235e7ae" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-eb23b7146aca41eb9815a008074f98dc" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M118.6,4084.0 L80,4084.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" transform="rotate(150)">
+    <textPath href="#path-eb23b7146aca41eb9815a008074f98dc" font-family="Verdana" font-size="14" fill="red">
+        38.6
+    </textPath>
+</text>
+
+
+<path id="path-557cd5e7ba4e49a3bfdaf4274a11cca0" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M84.4,4084.0 L118.6,4084.0" fill="none" />
+
+<text dx="94.4" dy="4074.0" fill="red" style="transform-box: fill-box; transform-origin: center;" >
+    34.2
+</text>
+
+
+<path id="path-647b51b18e094630b0f66b84c591f714" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M84.4,4084.0 L80,3959" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-647b51b18e094630b0f66b84c591f714" font-family="Verdana" font-size="14" fill="red">
+         
+    </textPath>
+</text>
+
+<text fill="green" x="630" y="3949">E</text><circle cx="650" cy="3959" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="660.4" y="3949">F</text><circle cx="680.4" cy="3959" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="657.2" y="4074.0">G</text><circle cx="677.2" cy="4084.0" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="633.2" y="4074.0">H</text><circle cx="653.2" cy="4084.0" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-1649cbfd2dc749f78468ce27140f8897"   stroke-width="2" stroke="gray" d="M650,3959 L680.4,3959" fill="none" />
+
+<text dx="640" dy="3949" fill="gray" style="transform-box: fill-box; transform-origin: center;" >
+    30.4
+</text>
+
+
+<path id="path-7063421d2b5e44769a19a6e2d03637cd"   stroke-width="2" stroke="gray" d="M680.4,3959 L677.2,4084.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-7063421d2b5e44769a19a6e2d03637cd" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+
+<path id="path-0aef50f66e7b43b6868a726b6013e17d"   stroke-width="2" stroke="gray" d="M677.2,4084.0 L653.2,4084.0" fill="none" />
+
+<text dx="667.2" dy="4104.0" fill="gray" style="transform-box: fill-box; transform-origin: center;" >
+    24.0
+</text>
+
+
+<path id="path-5bc30512710d4f038eb8e2ba8146bf31"   stroke-width="2" stroke="gray" d="M653.2,4084.0 L650,3959" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-5bc30512710d4f038eb8e2ba8146bf31" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+<text x="100" y="3859" font-size="30">#10. bricks: 31, seam: 4, bottom_outer_radius: 231.7, bottom_inner_radius: 188.3, top_outer_radius: 169.8, top_inner_radius: 138.0</text>
+<text x="40" y="3879" font-size="20"><tspan x="40" dy=".6em">Step1: mark on the</tspan><tspan x="40" dy="1.2em">top of a brick</tspan></text>
+<text x="280" y="3879" font-size="20"><tspan x="280" dy=".6em">Step2: mark angles</tspan><tspan x="280" dy="1.2em">from A and B to the bottom</tspan></text>
+<text x="600" y="3879" font-size="20"><tspan x="600" dy=".6em">Step3: verify bottom</tspan><tspan x="600" dy="1.2em">sizes</tspan></text>
+
+<path id="path-225ee53e1f0c49bfae8ce9a756600fe8"  stroke-opacity="0" stroke-width="2" stroke="black" d="M80,4084.0 L84.4,4084.0" fill="none" />
+
+<text dx="70" dy="4104.0" fill="black" style="transform-box: fill-box; transform-origin: center;" >
+    4.4
+</text>
+
+<text fill="green" x="290" y="3959">DPB</text><circle cx="310" cy="3969" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="540.0" y="3959">DPC</text><circle cx="560.0" cy="3969" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="296.3" y="4059">DPD</text><circle cx="316.3" cy="4069" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-e95c71db9fdb483db0dded8d292fe098" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M310,3969 L560.0,3969" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-e95c71db9fdb483db0dded8d292fe098" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-77bbaaed655c4ed99d583971a7273f35" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M316.3,4069 L310,3969" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-77bbaaed655c4ed99d583971a7273f35" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="320" y="3989">86.4°</text><circle cx="340" cy="3999" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-acd5cf722fc445959125c0a192a82764"   stroke-width="2" stroke="orange" d="M537.1221548640401,107.64573917003497 L600.7637672119413,94.57825126455998" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-acd5cf722fc445959125c0a192a82764" font-family="Verdana" font-size="14" fill="orange">
+        65.0
+    </textPath>
+</text>
+
+
+<path id="path-4a564a039ddc41ccbb0023882c02459f"   stroke-width="2" stroke="orange" d="M600.7637672119413,94.57825126455998 L619.9148673146047,218.10248113407897" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-4a564a039ddc41ccbb0023882c02459f" font-family="Verdana" font-size="14" fill="orange">
+        125.0
+    </textPath>
+</text>
+
+
+<path id="path-443de71bcac84e4d8079e16b5b968059"   stroke-width="2" stroke="orange" d="M619.9148673146047,218.10248113407897 L568.1947318788685,228.72214049439526" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" transform="rotate(180)">
+    <textPath href="#path-443de71bcac84e4d8079e16b5b968059" font-family="Verdana" font-size="14" fill="orange">
+        52.8
+    </textPath>
+</text>
+
+
+<path id="path-9986f75f4c59432db5d3c61b4892a216"   stroke-width="2" stroke="orange" d="M568.1947318788685,228.72214049439526 L537.1221548640401,107.64573917003497" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-9986f75f4c59432db5d3c61b4892a216" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="580.7637672119413" y="84.57825126455998">#11-TOP</text><circle cx="600.7637672119413" cy="94.57825126455998" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-b7845cad51de468fb0309b6faa2b657f"   stroke-width="2" stroke="gray" d="M619.9148673146047,218.10248113407897 L703,754" fill="none" />
+
+<text dx="0" dy="26" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-b7845cad51de468fb0309b6faa2b657f" font-family="Verdana" font-size="14" fill="gray">
+        542.3
+    </textPath>
+</text>
+
+<text fill="green" x="60" y="4299">A</text><circle cx="80" cy="4309" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="89.6" y="4299">B</text><circle cx="109.6" cy="4309" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="86.45" y="4424.0">C</text><circle cx="106.45" cy="4434.0" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="63.14999999999999" y="4424.0">D</text><circle cx="83.14999999999999" cy="4434.0" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-f34b25998e9a44ba862d65fe6d4bd6fa"   stroke-width="2" stroke="orange" d="M80,4309 L205.0,4309" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-f34b25998e9a44ba862d65fe6d4bd6fa" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-05c1450801684d8e957db97072ad3c25"   stroke-width="2" stroke="orange" d="M205.0,4309 L205.0,4434.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-05c1450801684d8e957db97072ad3c25" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-5ae891fd6b2a4f3b9bcfa51d40e5d6bd"   stroke-width="2" stroke="orange" d="M205.0,4434.0 L80,4434.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-5ae891fd6b2a4f3b9bcfa51d40e5d6bd" font-family="Verdana" font-size="14" fill="orange">
+        
+    </textPath>
+</text>
+
+
+<path id="path-5ca979f66a024673bce857f16212c7ad"   stroke-width="2" stroke="orange" d="M80,4434.0 L80,4309" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-5ca979f66a024673bce857f16212c7ad" font-family="Verdana" font-size="14" fill="orange">
+        125.0
+    </textPath>
+</text>
+
+
+<path id="path-9c9376e378ee45a9997df4826c2c6013" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M80,4309 L109.6,4309" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" transform="rotate(-20)">
+    <textPath href="#path-9c9376e378ee45a9997df4826c2c6013" font-family="Verdana" font-size="14" fill="red">
+        29.6
+    </textPath>
+</text>
+
+
+<path id="path-7db777174bf94464b6a2c57fa23c6f03" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M109.6,4309 L106.45,4434.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-7db777174bf94464b6a2c57fa23c6f03" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-8792af47c76a4652a89fc54436fc828d" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M106.45,4434.0 L80,4434.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" transform="rotate(150)">
+    <textPath href="#path-8792af47c76a4652a89fc54436fc828d" font-family="Verdana" font-size="14" fill="red">
+        26.5
+    </textPath>
+</text>
+
+
+<path id="path-f842e9c65db94853bcf780ff81bf1101" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M83.14999999999999,4434.0 L106.45,4434.0" fill="none" />
+
+<text dx="93.14999999999999" dy="4424.0" fill="red" style="transform-box: fill-box; transform-origin: center;" >
+    23.3
+</text>
+
+
+<path id="path-d3dc7f10e9b043079b2a11a91eebbc3c" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M83.14999999999999,4434.0 L80,4309" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-d3dc7f10e9b043079b2a11a91eebbc3c" font-family="Verdana" font-size="14" fill="red">
+         
+    </textPath>
+</text>
+
+<text fill="green" x="630" y="4299">E</text><circle cx="650" cy="4309" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="646.7" y="4299">F</text><circle cx="666.7" cy="4309" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="644.75" y="4424.0">G</text><circle cx="664.75" cy="4434.0" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="631.95" y="4424.0">H</text><circle cx="651.95" cy="4434.0" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-9e8d615c2c4044d5b84ea338bdc8a963"   stroke-width="2" stroke="gray" d="M650,4309 L666.7,4309" fill="none" />
+
+<text dx="640" dy="4299" fill="gray" style="transform-box: fill-box; transform-origin: center;" >
+    16.7
+</text>
+
+
+<path id="path-dfcbd87dd2424375a9b83ef73f1af98c"   stroke-width="2" stroke="gray" d="M666.7,4309 L664.75,4434.0" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-dfcbd87dd2424375a9b83ef73f1af98c" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+
+<path id="path-d834b189b801483aba85d6b469384747"   stroke-width="2" stroke="gray" d="M664.75,4434.0 L651.95,4434.0" fill="none" />
+
+<text dx="654.75" dy="4454.0" fill="gray" style="transform-box: fill-box; transform-origin: center;" >
+    12.8
+</text>
+
+
+<path id="path-6a6952d75cb64670919da5a75c190241"   stroke-width="2" stroke="gray" d="M651.95,4434.0 L650,4309" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-6a6952d75cb64670919da5a75c190241" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+<text x="100" y="4209" font-size="30">#11. bricks: 31, seam: 4, bottom_outer_radius: 165.9, bottom_inner_radius: 134.8, top_outer_radius: 102.2, top_inner_radius: 83.1</text>
+<text x="40" y="4229" font-size="20"><tspan x="40" dy=".6em">Step1: mark on the</tspan><tspan x="40" dy="1.2em">top of a brick</tspan></text>
+<text x="280" y="4229" font-size="20"><tspan x="280" dy=".6em">Step2: mark angles</tspan><tspan x="280" dy="1.2em">from A and B to the bottom</tspan></text>
+<text x="600" y="4229" font-size="20"><tspan x="600" dy=".6em">Step3: verify bottom</tspan><tspan x="600" dy="1.2em">sizes</tspan></text>
+
+<path id="path-9481d0f28d01498b90cd0bdd83807428"  stroke-opacity="0" stroke-width="2" stroke="black" d="M80,4434.0 L83.14999999999999,4434.0" fill="none" />
+
+<text dx="70" dy="4454.0" fill="black" style="transform-box: fill-box; transform-origin: center;" >
+    3.1
+</text>
+
+<text fill="green" x="290" y="4309">DPB</text><circle cx="310" cy="4319" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="540.0" y="4309">DPC</text><circle cx="560.0" cy="4319" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="296.45" y="4409">DPD</text><circle cx="316.45" cy="4419" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-48eb6e9d519b4b7ab704b31aafa4d340" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M310,4319 L560.0,4319" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-48eb6e9d519b4b7ab704b31aafa4d340" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-a17e748775014355b4590a9dca958d29" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M316.45,4419 L310,4319" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-a17e748775014355b4590a9dca958d29" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="320" y="4339">86.3°</text><circle cx="340" cy="4349" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="683" y="745.3">SRCP</text><circle cx="703" cy="755.3" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-bf172fa9ca3946ac99a8756bb6a168bb" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M703,213 L1206,213" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-bf172fa9ca3946ac99a8756bb6a168bb" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-843403acbb6049d1bb97fbfdd035c5e1" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M1206,213 L1206,663" fill="none" />
+
+<text dx="1236" dy="428.0" fill="red" style="transform-box: fill-box; transform-origin: center;" transform="rotate(40)">
+    450.0
+</text>
+
+
+<path id="path-802f388bc89845d7a7686e93bb05f800" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M703,663 L703,213" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-802f388bc89845d7a7686e93bb05f800" font-family="Verdana" font-size="14" fill="red">
+        450.0
+    </textPath>
+</text>
+
+
+<path id="path-e669b402d5344c0d8606f51811b507a5" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M703,663 L1206,663" fill="none" />
+
+<text dx="964.15" dy="723" fill="red" style="transform-box: fill-box; transform-origin: center;" >
+    503.0
+</text>
+
+
+<path id="path-cd634de95017437f97edc60cbe3d6045" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M703,755.3 L703,213" fill="none" />
+
+<text dx="663" dy="520.3" fill="red" style="transform-box: fill-box; transform-origin: center;" transform="rotate(-90)">
+    542.3
+</text>
+
+<text fill="green" x="1185.39887305138" y="541.1317792684099">1</text><circle cx="1205.39887305138" cy="551.1317792684099" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-eb10a1c69f2e4623967ab4000696cff2"  stroke-opacity="0" stroke-width="2" stroke="black" d="M1206,663 L1205.39887305138,551.1317792684099" fill="none" />
+
+<text dx="1204" dy="617" fill="black" style="transform-box: fill-box; transform-origin: center;" transform="rotate(40)">
+    111.9
+</text>
+
+
+<path id="path-4669a81674834642bf03bcc69e077d92"  stroke-opacity="0" stroke-width="2" stroke="black" d="M1206,213 L1205.39887305138,551.1317792684099" fill="none" />
+
+<text dx="1204" dy="299" fill="black" style="transform-box: fill-box; transform-origin: center;" transform="rotate(40)">
+    338.1
+</text>
+
+
+<path id="path-5be5a8c31edc440687bc00a3cde54ec6" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M1148.59887305138,551.1317792684099 L1205.39887305138,551.1317792684099" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-5be5a8c31edc440687bc00a3cde54ec6" font-family="Verdana" font-size="14" fill="red">
+         
+    </textPath>
+</text>
+
+
+<path id="path-180648bdbd9a45978eae00491d73a6ee" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M1181.2336496031155,499.60121942550364 L1205.39887305138,551.1317792684099" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-180648bdbd9a45978eae00491d73a6ee" font-family="Verdana" font-size="14" fill="red">
+        56.9
+    </textPath>
+</text>
+
+
+<path id="path-e1deb11f65f04889bc2c899017592fe6" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M1124.4336496031156,499.60121942550364 L1181.2336496031155,499.60121942550364" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-e1deb11f65f04889bc2c899017592fe6" font-family="Verdana" font-size="14" fill="red">
+         
+    </textPath>
+</text>
+
+<text fill="green" x="1161.2336496031155" y="489.60121942550364">2</text><circle cx="1181.2336496031155" cy="499.60121942550364" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="1161.2336496031155" y="203"></text><circle cx="1181.2336496031155" cy="213" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="1161.2336496031155" y="653"></text><circle cx="1181.2336496031155" cy="663" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-9a33061aa1e9492ca10aadc8e41e0884" stroke-dasharray="6" stroke-opacity="0" stroke-width="2" stroke="black" d="M1181.2336496031155,213 L703,213" fill="none" />
+
+<text dx="1161.2336496031155" dy="193" fill="black" style="transform-box: fill-box; transform-origin: center;" transform="rotate(-20)">
+    478.2
+</text>
+
+
+<path id="path-3ea48486b52549cfae47c63a50192379" stroke-dasharray="6" stroke-opacity="0" stroke-width="2" stroke="black" d="M1181.2336496031155,663 L703,663" fill="none" />
+
+<text dx="1171.2336496031155" dy="687" fill="black" style="transform-box: fill-box; transform-origin: center;" transform="rotate(30)">
+    478.2
+</text>
+
+
+<path id="path-86a2f52afb884eba9c5af063745969e7"   stroke-width="2" stroke="gray" d="M1181.2336496031155,213 L1181.2336496031155,499.60121942550364" fill="none" />
+
+<text dx="1181.2336496031155" dy="239" fill="gray" style="transform-box: fill-box; transform-origin: center;" transform="rotate(40)">
+    286.6
+</text>
+
+
+<path id="path-f0863d15407d4f809842ec1c855005ea"   stroke-width="2" stroke="gray" d="M1181.2336496031155,663 L1181.2336496031155,499.60121942550364" fill="none" />
+
+<text dx="1177.2336496031155" dy="617" fill="gray" style="transform-box: fill-box; transform-origin: center;" transform="rotate(40)">
+    163.4
+</text>
+
+
+<path id="path-59f78970ca5a4ccbbe26f1aabd2ad334"   stroke-width="2" stroke="gray" d="M703,755.3 L1181.2336496031155,499.60121942550364" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-59f78970ca5a4ccbbe26f1aabd2ad334" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="1099.5033241887359" y="522.6067784153888"></text><circle cx="1119.5033241887359" cy="532.6067784153888" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-a3f8da6237264603bdeea080e2885929"  stroke-opacity="0" stroke-width="2" stroke="black" d="M1119.5033241887359,532.6067784153888 L1181.2336496031155,499.60121942550364" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-a3f8da6237264603bdeea080e2885929" font-family="Verdana" font-size="14" fill="black">
+        70.0
+    </textPath>
+</text>
+
+<text fill="green" x="1002.4985271089964" y="574.4726568280656"></text><circle cx="1022.4985271089964" cy="584.4726568280656" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-21a4df0f30f0408ba3da3fc901194576"  stroke-opacity="0" stroke-width="2" stroke="black" d="M1022.4985271089964,584.4726568280656 L1181.2336496031155,499.60121942550364" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-21a4df0f30f0408ba3da3fc901194576" font-family="Verdana" font-size="14" fill="black">
+        180.0
+    </textPath>
+</text>
+
+
+<path id="path-41235850f17849e7bd5aa3bb05d38697" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M1151.800742521362,450.8871495612018 L1181.2336496031155,499.60121942550364" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-41235850f17849e7bd5aa3bb05d38697" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-9b37deb09dc3435f8aa9c0e930a50399" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M1095.000742521362,450.8871495612018 L1151.800742521362,450.8871495612018" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-9b37deb09dc3435f8aa9c0e930a50399" font-family="Verdana" font-size="14" fill="red">
+         
+    </textPath>
+</text>
+
+<text fill="green" x="1131.800742521362" y="440.8871495612018">3</text><circle cx="1151.800742521362" cy="450.8871495612018" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="1131.800742521362" y="203"></text><circle cx="1151.800742521362" cy="213" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="1131.800742521362" y="653"></text><circle cx="1151.800742521362" cy="663" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-acfcc945133944a486ac4440ec2dac90" stroke-dasharray="6" stroke-opacity="0" stroke-width="2" stroke="black" d="M1151.800742521362,213 L703,213" fill="none" />
+
+<text dx="1131.800742521362" dy="193" fill="black" style="transform-box: fill-box; transform-origin: center;" transform="rotate(-20)">
+    448.8
+</text>
+
+
+<path id="path-c9c03714dcff4dadbf77271bb93a2406" stroke-dasharray="6" stroke-opacity="0" stroke-width="2" stroke="black" d="M1151.800742521362,663 L703,663" fill="none" />
+
+<text dx="1141.800742521362" dy="687" fill="black" style="transform-box: fill-box; transform-origin: center;" transform="rotate(30)">
+    448.8
+</text>
+
+
+<path id="path-1d1da754ec6249aa82395be7431739fd"   stroke-width="2" stroke="gray" d="M1151.800742521362,213 L1151.800742521362,450.8871495612018" fill="none" />
+
+<text dx="1151.800742521362" dy="239" fill="gray" style="transform-box: fill-box; transform-origin: center;" transform="rotate(40)">
+    237.9
+</text>
+
+
+<path id="path-1509f821259e4705a192751491ccde4c"   stroke-width="2" stroke="gray" d="M1151.800742521362,663 L1151.800742521362,450.8871495612018" fill="none" />
+
+<text dx="1147.800742521362" dy="617" fill="gray" style="transform-box: fill-box; transform-origin: center;" transform="rotate(40)">
+    212.1
+</text>
+
+
+<path id="path-217a1486fb064b67adc7286257e78f52"   stroke-width="2" stroke="gray" d="M703,755.3 L1151.800742521362,450.8871495612018" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-217a1486fb064b67adc7286257e78f52" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="1073.869612194061" y="480.1807131435655"></text><circle cx="1093.869612194061" cy="490.1807131435655" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-fdd9d4fb240145938462275a79f88c38"  stroke-opacity="0" stroke-width="2" stroke="black" d="M1093.869612194061,490.1807131435655 L1151.800742521362,450.8871495612018" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-fdd9d4fb240145938462275a79f88c38" font-family="Verdana" font-size="14" fill="black">
+        70.0
+    </textPath>
+</text>
+
+<text fill="green" x="982.834978822588" y="541.9277416301372"></text><circle cx="1002.834978822588" cy="551.9277416301372" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-390d48fe0f7b4d3fb3fd7781c5f96e15"  stroke-opacity="0" stroke-width="2" stroke="black" d="M1002.834978822588,551.9277416301372 L1151.800742521362,450.8871495612018" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-390d48fe0f7b4d3fb3fd7781c5f96e15" font-family="Verdana" font-size="14" fill="black">
+        180.0
+    </textPath>
+</text>
+
+
+<path id="path-d103978721c4458c9c024470f8810cac" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M1117.4243515838814,405.52614904158514 L1151.800742521362,450.8871495612018" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-d103978721c4458c9c024470f8810cac" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-36770973074f4cf28a86a320348dea84" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M1060.6243515838814,405.52614904158514 L1117.4243515838814,405.52614904158514" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-36770973074f4cf28a86a320348dea84" font-family="Verdana" font-size="14" fill="red">
+         
+    </textPath>
+</text>
+
+<text fill="green" x="1097.4243515838814" y="395.52614904158514">4</text><circle cx="1117.4243515838814" cy="405.52614904158514" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="1097.4243515838814" y="203"></text><circle cx="1117.4243515838814" cy="213" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="1097.4243515838814" y="653"></text><circle cx="1117.4243515838814" cy="663" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-b5a0260a07444d5f988b799cc5eedaa6" stroke-dasharray="6" stroke-opacity="0" stroke-width="2" stroke="black" d="M1117.4243515838814,213 L703,213" fill="none" />
+
+<text dx="1097.4243515838814" dy="193" fill="black" style="transform-box: fill-box; transform-origin: center;" transform="rotate(-20)">
+    414.4
+</text>
+
+
+<path id="path-0a6e7ef2ec4646378bc7d87b7a920ee5" stroke-dasharray="6" stroke-opacity="0" stroke-width="2" stroke="black" d="M1117.4243515838814,663 L703,663" fill="none" />
+
+<text dx="1107.4243515838814" dy="687" fill="black" style="transform-box: fill-box; transform-origin: center;" transform="rotate(30)">
+    414.4
+</text>
+
+
+<path id="path-6fa29213aba946ccb25a7d56c068d2f5"   stroke-width="2" stroke="gray" d="M1117.4243515838814,213 L1117.4243515838814,405.52614904158514" fill="none" />
+
+<text dx="1117.4243515838814" dy="239" fill="gray" style="transform-box: fill-box; transform-origin: center;" transform="rotate(40)">
+    192.5
+</text>
+
+
+<path id="path-03708f649f5741c4990549e8bb038d19"   stroke-width="2" stroke="gray" d="M1117.4243515838814,663 L1117.4243515838814,405.52614904158514" fill="none" />
+
+<text dx="1113.4243515838814" dy="617" fill="gray" style="transform-box: fill-box; transform-origin: center;" transform="rotate(40)">
+    257.5
+</text>
+
+
+<path id="path-8b80ca87739a4a95a91ae2630fbead05"   stroke-width="2" stroke="gray" d="M703,755.3 L1117.4243515838814,405.52614904158514" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-8b80ca87739a4a95a91ae2630fbead05" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="1043.9305204740313" y="440.67490354479196"></text><circle cx="1063.9305204740313" cy="450.67490354479196" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-05dfcf53a70f41a18da26a6c13ce7720"  stroke-opacity="0" stroke-width="2" stroke="black" d="M1063.9305204740313,450.67490354479196 L1117.4243515838814,405.52614904158514" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-05dfcf53a70f41a18da26a6c13ce7720" font-family="Verdana" font-size="14" fill="black">
+        70.0
+    </textPath>
+</text>
+
+<text fill="green" x="959.8687858728383" y="511.6229463355454"></text><circle cx="979.8687858728383" cy="521.6229463355454" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-1430b661d71a4d69924f422b031d3719"  stroke-opacity="0" stroke-width="2" stroke="black" d="M979.8687858728383,521.6229463355454 L1117.4243515838814,405.52614904158514" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-1430b661d71a4d69924f422b031d3719" font-family="Verdana" font-size="14" fill="black">
+        180.0
+    </textPath>
+</text>
+
+
+<path id="path-30310502b81040a6ae3db5cff5f2980a" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M1078.4831284227162,364.0178635947073 L1117.4243515838814,405.52614904158514" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-30310502b81040a6ae3db5cff5f2980a" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-b2f28bd2cb7e46778ba27cbaa7696289" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M1021.6831284227162,364.0178635947073 L1078.4831284227162,364.0178635947073" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-b2f28bd2cb7e46778ba27cbaa7696289" font-family="Verdana" font-size="14" fill="red">
+         
+    </textPath>
+</text>
+
+<text fill="green" x="1058.4831284227162" y="354.0178635947073">5</text><circle cx="1078.4831284227162" cy="364.0178635947073" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="1058.4831284227162" y="203"></text><circle cx="1078.4831284227162" cy="213" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="1058.4831284227162" y="653"></text><circle cx="1078.4831284227162" cy="663" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-4783b206911d4e998aa09f2aa9b86edb" stroke-dasharray="6" stroke-opacity="0" stroke-width="2" stroke="black" d="M1078.4831284227162,213 L703,213" fill="none" />
+
+<text dx="1058.4831284227162" dy="193" fill="black" style="transform-box: fill-box; transform-origin: center;" transform="rotate(-20)">
+    375.5
+</text>
+
+
+<path id="path-c462c7f74bd445c28c9de452aa83383e" stroke-dasharray="6" stroke-opacity="0" stroke-width="2" stroke="black" d="M1078.4831284227162,663 L703,663" fill="none" />
+
+<text dx="1068.4831284227162" dy="687" fill="black" style="transform-box: fill-box; transform-origin: center;" transform="rotate(30)">
+    375.5
+</text>
+
+
+<path id="path-cd9f031066264bc498d8964d20d41ed7"   stroke-width="2" stroke="gray" d="M1078.4831284227162,213 L1078.4831284227162,364.0178635947073" fill="none" />
+
+<text dx="1078.4831284227162" dy="239" fill="gray" style="transform-box: fill-box; transform-origin: center;" transform="rotate(40)">
+    151.0
+</text>
+
+
+<path id="path-3083d869748f4b0486381ea998d828fa"   stroke-width="2" stroke="gray" d="M1078.4831284227162,663 L1078.4831284227162,364.0178635947073" fill="none" />
+
+<text dx="1074.4831284227162" dy="617" fill="gray" style="transform-box: fill-box; transform-origin: center;" transform="rotate(40)">
+    299.0
+</text>
+
+
+<path id="path-de7d0cabef504f01bbecb653ced62519"   stroke-width="2" stroke="gray" d="M703,755.3 L1078.4831284227162,364.0178635947073" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-de7d0cabef504f01bbecb653ced62519" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="1010.015824366677" y="404.5245011539374"></text><circle cx="1030.015824366677" cy="414.5245011539374" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-25a5e1ff89f440288a52e603a25cf2ee"  stroke-opacity="0" stroke-width="2" stroke="black" d="M1030.015824366677,414.5245011539374 L1078.4831284227162,364.0178635947073" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-25a5e1ff89f440288a52e603a25cf2ee" font-family="Verdana" font-size="14" fill="black">
+        70.0
+    </textPath>
+</text>
+
+<text fill="green" x="933.8529179929008" y="483.892074461299"></text><circle cx="953.8529179929008" cy="493.892074461299" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-6f8eb19d9fa54e4db2bdbf48d44943e6"  stroke-opacity="0" stroke-width="2" stroke="black" d="M953.8529179929008,493.892074461299 L1078.4831284227162,364.0178635947073" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-6f8eb19d9fa54e4db2bdbf48d44943e6" font-family="Verdana" font-size="14" fill="black">
+        180.0
+    </textPath>
+</text>
+
+
+<path id="path-cf4963ab87b1421aab5252d01cdd3795" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M1035.40600572398,326.8195017756006 L1078.4831284227162,364.0178635947073" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-cf4963ab87b1421aab5252d01cdd3795" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-2ea3962b501a4fe0ae231126510d372a" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M978.6060057239799,326.8195017756006 L1035.40600572398,326.8195017756006" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-2ea3962b501a4fe0ae231126510d372a" font-family="Verdana" font-size="14" fill="red">
+         
+    </textPath>
+</text>
+
+<text fill="green" x="1015.4060057239799" y="316.8195017756006">6</text><circle cx="1035.40600572398" cy="326.8195017756006" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="1015.4060057239799" y="203"></text><circle cx="1035.40600572398" cy="213" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="1015.4060057239799" y="653"></text><circle cx="1035.40600572398" cy="663" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-c2112e9a6fd84816811cc50f3177402c" stroke-dasharray="6" stroke-opacity="0" stroke-width="2" stroke="black" d="M1035.40600572398,213 L703,213" fill="none" />
+
+<text dx="1015.4060057239799" dy="193" fill="black" style="transform-box: fill-box; transform-origin: center;" transform="rotate(-20)">
+    332.4
+</text>
+
+
+<path id="path-3577d35f5ce74bd0b55c9311fe36bf24" stroke-dasharray="6" stroke-opacity="0" stroke-width="2" stroke="black" d="M1035.40600572398,663 L703,663" fill="none" />
+
+<text dx="1025.40600572398" dy="687" fill="black" style="transform-box: fill-box; transform-origin: center;" transform="rotate(30)">
+    332.4
+</text>
+
+
+<path id="path-326c7a0ce29b4e3cafac28db59541ea1"   stroke-width="2" stroke="gray" d="M1035.40600572398,213 L1035.40600572398,326.8195017756006" fill="none" />
+
+<text dx="1035.40600572398" dy="239" fill="gray" style="transform-box: fill-box; transform-origin: center;" transform="rotate(40)">
+    113.8
+</text>
+
+
+<path id="path-7997f46390eb4a16848fa3e2043e4df2"   stroke-width="2" stroke="gray" d="M1035.40600572398,663 L1035.40600572398,326.8195017756006" fill="none" />
+
+<text dx="1031.40600572398" dy="617" fill="gray" style="transform-box: fill-box; transform-origin: center;" transform="rotate(40)">
+    336.2
+</text>
+
+
+<path id="path-0292ab5a13364434b2d6166abd9da392"   stroke-width="2" stroke="gray" d="M703,755.3 L1035.40600572398,326.8195017756006" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-0292ab5a13364434b2d6166abd9da392" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="972.4990899934274" y="372.1276981165704"></text><circle cx="992.4990899934274" cy="382.1276981165704" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-f98bc710249f48a58e55c9afb2c11b36"  stroke-opacity="0" stroke-width="2" stroke="black" d="M992.4990899934274,382.1276981165704 L1035.40600572398,326.8195017756006" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-f98bc710249f48a58e55c9afb2c11b36" font-family="Verdana" font-size="14" fill="black">
+        70.0
+    </textPath>
+</text>
+
+<text fill="green" x="905.0739367025593" y="459.04057808095166"></text><circle cx="925.0739367025593" cy="469.04057808095166" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-f12a5cb05ec847fba3273b6c0a8c433e"  stroke-opacity="0" stroke-width="2" stroke="black" d="M925.0739367025593,469.04057808095166 L1035.40600572398,326.8195017756006" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-f12a5cb05ec847fba3273b6c0a8c433e" font-family="Verdana" font-size="14" fill="black">
+        180.0
+    </textPath>
+</text>
+
+
+<path id="path-5478f2a0bb2c4f199274e25cea535d39" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M988.6674725881494,294.3407988714197 L1035.40600572398,326.8195017756006" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-5478f2a0bb2c4f199274e25cea535d39" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-8ec939c99fb14c738bc8fc1e980ba376" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M931.8674725881494,294.3407988714197 L988.6674725881494,294.3407988714197" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-8ec939c99fb14c738bc8fc1e980ba376" font-family="Verdana" font-size="14" fill="red">
+         
+    </textPath>
+</text>
+
+<text fill="green" x="968.6674725881494" y="284.3407988714197">7</text><circle cx="988.6674725881494" cy="294.3407988714197" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="968.6674725881494" y="203"></text><circle cx="988.6674725881494" cy="213" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="968.6674725881494" y="653"></text><circle cx="988.6674725881494" cy="663" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-534199fe3a2f4b0888017aeb7dcd27a0" stroke-dasharray="6" stroke-opacity="0" stroke-width="2" stroke="black" d="M988.6674725881494,213 L703,213" fill="none" />
+
+<text dx="968.6674725881494" dy="193" fill="black" style="transform-box: fill-box; transform-origin: center;" transform="rotate(-20)">
+    285.7
+</text>
+
+
+<path id="path-2d41fce9916b4268a2c400fdddab5fc6" stroke-dasharray="6" stroke-opacity="0" stroke-width="2" stroke="black" d="M988.6674725881494,663 L703,663" fill="none" />
+
+<text dx="978.6674725881494" dy="687" fill="black" style="transform-box: fill-box; transform-origin: center;" transform="rotate(30)">
+    285.7
+</text>
+
+
+<path id="path-bdd82868a9074dc2a70aa683744326b1"   stroke-width="2" stroke="gray" d="M988.6674725881494,213 L988.6674725881494,294.3407988714197" fill="none" />
+
+<text dx="988.6674725881494" dy="239" fill="gray" style="transform-box: fill-box; transform-origin: center;" transform="rotate(40)">
+    81.3
+</text>
+
+
+<path id="path-c95abbe431b94f40961cb65e595062c1"   stroke-width="2" stroke="gray" d="M988.6674725881494,663 L988.6674725881494,294.3407988714197" fill="none" />
+
+<text dx="984.6674725881494" dy="617" fill="gray" style="transform-box: fill-box; transform-origin: center;" transform="rotate(40)">
+    368.7
+</text>
+
+
+<path id="path-65a2ac64f164449a8362b59e85a87c81"   stroke-width="2" stroke="gray" d="M703,755.3 L988.6674725881494,294.3407988714197" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-65a2ac64f164449a8362b59e85a87c81" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="931.7935594751667" y="343.84134115244603"></text><circle cx="951.7935594751667" cy="353.84134115244603" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-d5fc1923a626426295fb903549d87b13"  stroke-opacity="0" stroke-width="2" stroke="black" d="M951.7935594751667,353.84134115244603 L988.6674725881494,294.3407988714197" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-d5fc1923a626426295fb903549d87b13" font-family="Verdana" font-size="14" fill="black">
+        70.0
+    </textPath>
+</text>
+
+<text fill="green" x="873.8488388690513" y="437.3421933083447"></text><circle cx="893.8488388690513" cy="447.3421933083447" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-96b3ccbc130a4b1a810a9fcc9e2d14e4"  stroke-opacity="0" stroke-width="2" stroke="black" d="M893.8488388690513,447.3421933083447 L988.6674725881494,294.3407988714197" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-96b3ccbc130a4b1a810a9fcc9e2d14e4" font-family="Verdana" font-size="14" fill="black">
+        180.0
+    </textPath>
+</text>
+
+
+<path id="path-353b7b2a04ed4bf8aa9f1d1b66b5ed37" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M938.7823480921704,266.9395037186745 L988.6674725881494,294.3407988714197" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-353b7b2a04ed4bf8aa9f1d1b66b5ed37" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-4dc461abf08f4f088be3771e0b9f70e3" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M881.9823480921705,266.9395037186745 L938.7823480921704,266.9395037186745" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-4dc461abf08f4f088be3771e0b9f70e3" font-family="Verdana" font-size="14" fill="red">
+         
+    </textPath>
+</text>
+
+<text fill="green" x="918.7823480921704" y="256.9395037186745">8</text><circle cx="938.7823480921704" cy="266.9395037186745" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="918.7823480921704" y="203"></text><circle cx="938.7823480921704" cy="213" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="918.7823480921704" y="653"></text><circle cx="938.7823480921704" cy="663" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-1dede6587cc0416e90f715e10c2f30ff" stroke-dasharray="6" stroke-opacity="0" stroke-width="2" stroke="black" d="M938.7823480921704,213 L703,213" fill="none" />
+
+<text dx="918.7823480921704" dy="193" fill="black" style="transform-box: fill-box; transform-origin: center;" transform="rotate(-20)">
+    235.8
+</text>
+
+
+<path id="path-0e5e1e8de9c7410a914932093ee4af7b" stroke-dasharray="6" stroke-opacity="0" stroke-width="2" stroke="black" d="M938.7823480921704,663 L703,663" fill="none" />
+
+<text dx="928.7823480921704" dy="687" fill="black" style="transform-box: fill-box; transform-origin: center;" transform="rotate(30)">
+    235.8
+</text>
+
+
+<path id="path-b74e64fda15647a2ac787b35055b8abd"   stroke-width="2" stroke="gray" d="M938.7823480921704,213 L938.7823480921704,266.9395037186745" fill="none" />
+
+<text dx="938.7823480921704" dy="239" fill="gray" style="transform-box: fill-box; transform-origin: center;" transform="rotate(40)">
+    53.9
+</text>
+
+
+<path id="path-c2b1183985bb45d4ad317fec814069aa"   stroke-width="2" stroke="gray" d="M938.7823480921704,663 L938.7823480921704,266.9395037186745" fill="none" />
+
+<text dx="934.7823480921704" dy="617" fill="gray" style="transform-box: fill-box; transform-origin: center;" transform="rotate(40)">
+    396.1
+</text>
+
+
+<path id="path-5d54011ad9a648bb9f787bf5b6a7262f"   stroke-width="2" stroke="gray" d="M703,755.3 L938.7823480921704,266.9395037186745" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-5d54011ad9a648bb9f787bf5b6a7262f" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="888.3475991221318" y="319.9770009336713"></text><circle cx="908.3475991221318" cy="329.9770009336713" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-52c002374fc8401faf1732c9833aa700"  stroke-opacity="0" stroke-width="2" stroke="black" d="M908.3475991221318,329.9770009336713 L938.7823480921704,266.9395037186745" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-52c002374fc8401faf1732c9833aa700" font-family="Verdana" font-size="14" fill="black">
+        70.0
+    </textPath>
+</text>
+
+<text fill="green" x="840.5215650263569" y="419.03592512866635"></text><circle cx="860.5215650263569" cy="429.03592512866635" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-2d6082ff7082403e8701b11e5c476f35"  stroke-opacity="0" stroke-width="2" stroke="black" d="M860.5215650263569,429.03592512866635 L938.7823480921704,266.9395037186745" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-2d6082ff7082403e8701b11e5c476f35" font-family="Verdana" font-size="14" fill="black">
+        180.0
+    </textPath>
+</text>
+
+
+<path id="path-f30cc52d58dd476aa89b60533191b87c" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M886.3001106219331,244.9174381446922 L938.7823480921704,266.9395037186745" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-f30cc52d58dd476aa89b60533191b87c" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-4a712b6c670543108e4300142924fa55" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M829.5001106219331,244.9174381446922 L886.3001106219331,244.9174381446922" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-4a712b6c670543108e4300142924fa55" font-family="Verdana" font-size="14" fill="red">
+         
+    </textPath>
+</text>
+
+<text fill="green" x="866.3001106219331" y="234.9174381446922">9</text><circle cx="886.3001106219331" cy="244.9174381446922" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="866.3001106219331" y="203"></text><circle cx="886.3001106219331" cy="213" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="866.3001106219331" y="653"></text><circle cx="886.3001106219331" cy="663" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-eaa2222d842747b991a78574e74cd3a5" stroke-dasharray="6" stroke-opacity="0" stroke-width="2" stroke="black" d="M886.3001106219331,213 L703,213" fill="none" />
+
+<text dx="866.3001106219331" dy="193" fill="black" style="transform-box: fill-box; transform-origin: center;" transform="rotate(-20)">
+    183.3
+</text>
+
+
+<path id="path-f48bae8276614044a79719845dda6125" stroke-dasharray="6" stroke-opacity="0" stroke-width="2" stroke="black" d="M886.3001106219331,663 L703,663" fill="none" />
+
+<text dx="876.3001106219331" dy="687" fill="black" style="transform-box: fill-box; transform-origin: center;" transform="rotate(30)">
+    183.3
+</text>
+
+
+<path id="path-59da66a06b1345b09c51ee66ed813b44"   stroke-width="2" stroke="gray" d="M886.3001106219331,213 L886.3001106219331,244.9174381446922" fill="none" />
+
+<text dx="886.3001106219331" dy="239" fill="gray" style="transform-box: fill-box; transform-origin: center;" transform="rotate(40)">
+    31.9
+</text>
+
+
+<path id="path-9bbbcdd47b774423af93002ec69c373d"   stroke-width="2" stroke="gray" d="M886.3001106219331,663 L886.3001106219331,244.9174381446922" fill="none" />
+
+<text dx="882.3001106219331" dy="617" fill="gray" style="transform-box: fill-box; transform-origin: center;" transform="rotate(40)">
+    418.1
+</text>
+
+
+<path id="path-e68ab6ac90ff4870b8149872e0a98b3e"   stroke-width="2" stroke="gray" d="M703,755.3 L886.3001106219331,244.9174381446922" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-e68ab6ac90ff4870b8149872e0a98b3e" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="842.6397607352737" y="300.7975401728529"></text><circle cx="862.6397607352737" cy="310.7975401728529" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-11f08a710b1f4d45b3eef3f2f4b3e89c"  stroke-opacity="0" stroke-width="2" stroke="black" d="M862.6397607352737,310.7975401728529 L886.3001106219331,244.9174381446922" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-11f08a710b1f4d45b3eef3f2f4b3e89c" font-family="Verdana" font-size="14" fill="black">
+        70.0
+    </textPath>
+</text>
+
+<text fill="green" x="805.4592109133807" y="404.32341478853397"></text><circle cx="825.4592109133807" cy="414.32341478853397" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-ee3c954d745a4b60ad20ab2ef790b1db"  stroke-opacity="0" stroke-width="2" stroke="black" d="M825.4592109133807,414.32341478853397 L886.3001106219331,244.9174381446922" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-ee3c954d745a4b60ad20ab2ef790b1db" font-family="Verdana" font-size="14" fill="black">
+        180.0
+    </textPath>
+</text>
+
+
+<path id="path-f5ad6ed87e024c4f9cec66eeb323321c" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M831.7988454368086,228.51717243806718 L886.3001106219331,244.9174381446922" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-f5ad6ed87e024c4f9cec66eeb323321c" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-244123cc3af04da99693bcb9329a000b" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M774.9988454368087,228.51717243806718 L831.7988454368086,228.51717243806718" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-244123cc3af04da99693bcb9329a000b" font-family="Verdana" font-size="14" fill="red">
+         
+    </textPath>
+</text>
+
+<text fill="green" x="811.7988454368086" y="218.51717243806718">10</text><circle cx="831.7988454368086" cy="228.51717243806718" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="811.7988454368086" y="203"></text><circle cx="831.7988454368086" cy="213" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="811.7988454368086" y="653"></text><circle cx="831.7988454368086" cy="663" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-e36d62f501a1416f88699914e822add2" stroke-dasharray="6" stroke-opacity="0" stroke-width="2" stroke="black" d="M831.7988454368086,213 L703,213" fill="none" />
+
+<text dx="811.7988454368086" dy="193" fill="black" style="transform-box: fill-box; transform-origin: center;" transform="rotate(-20)">
+    128.8
+</text>
+
+
+<path id="path-e47ac53fd62040be831c3c2a0a6b0cf0" stroke-dasharray="6" stroke-opacity="0" stroke-width="2" stroke="black" d="M831.7988454368086,663 L703,663" fill="none" />
+
+<text dx="821.7988454368086" dy="687" fill="black" style="transform-box: fill-box; transform-origin: center;" transform="rotate(30)">
+    128.8
+</text>
+
+
+<path id="path-ddbd2ed9e74c40c9b5730f401b6927dd"   stroke-width="2" stroke="gray" d="M831.7988454368086,213 L831.7988454368086,228.51717243806718" fill="none" />
+
+<text dx="831.7988454368086" dy="239" fill="gray" style="transform-box: fill-box; transform-origin: center;" transform="rotate(40)">
+    15.5
+</text>
+
+
+<path id="path-bf3456ad099f4c82ab1c42e64a6f9e73"   stroke-width="2" stroke="gray" d="M831.7988454368086,663 L831.7988454368086,228.51717243806718" fill="none" />
+
+<text dx="827.7988454368086" dy="617" fill="gray" style="transform-box: fill-box; transform-origin: center;" transform="rotate(40)">
+    434.5
+</text>
+
+
+<path id="path-be3bd88e7b104b269acc93eea3c9192c"   stroke-width="2" stroke="gray" d="M703,755.3 L831.7988454368086,228.51717243806718" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-be3bd88e7b104b269acc93eea3c9192c" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="795.1735104182274" y="286.5142182233065"></text><circle cx="815.1735104182274" cy="296.5142182233065" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-ab6323cfa7bf4e51a5bab9fead12e758"  stroke-opacity="0" stroke-width="2" stroke="black" d="M815.1735104182274,296.5142182233065 L831.7988454368086,228.51717243806718" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-ab6323cfa7bf4e51a5bab9fead12e758" font-family="Verdana" font-size="14" fill="black">
+        70.0
+    </textPath>
+</text>
+
+<text fill="green" x="769.0479839604568" y="393.3667187429684"></text><circle cx="789.0479839604568" cy="403.3667187429684" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-e655e1c18f3b4b5da01389743b57b637"  stroke-opacity="0" stroke-width="2" stroke="black" d="M789.0479839604568,403.3667187429684 L831.7988454368086,228.51717243806718" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-e655e1c18f3b4b5da01389743b57b637" font-family="Verdana" font-size="14" fill="black">
+        180.0
+    </textPath>
+</text>
+
+
+<path id="path-4796d491dfb04149aba5679a11257903" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M775.878877133066,217.91935346737364 L831.7988454368086,228.51717243806718" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-4796d491dfb04149aba5679a11257903" font-family="Verdana" font-size="14" fill="red">
+        
+    </textPath>
+</text>
+
+
+<path id="path-b71ea90f582244e7bd47ef5eb7a8f07a" stroke-dasharray="6"  stroke-width="2" stroke="red" d="M703,217.91935346737364 L775.878877133066,217.91935346737364" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-b71ea90f582244e7bd47ef5eb7a8f07a" font-family="Verdana" font-size="14" fill="red">
+         
+    </textPath>
+</text>
+
+<text fill="green" x="755.878877133066" y="207.91935346737364">11</text><circle cx="775.878877133066" cy="217.91935346737364" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="755.878877133066" y="203"></text><circle cx="775.878877133066" cy="213" r="3" fill="black" fill-opacity="0.8"/>
+<text fill="green" x="755.878877133066" y="653"></text><circle cx="775.878877133066" cy="663" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-5865f88cf3b848a4a5f254c9d562f9f3" stroke-dasharray="6" stroke-opacity="0" stroke-width="2" stroke="black" d="M775.878877133066,213 L703,213" fill="none" />
+
+<text dx="755.878877133066" dy="193" fill="black" style="transform-box: fill-box; transform-origin: center;" transform="rotate(-20)">
+    72.9
+</text>
+
+
+<path id="path-7a5fccf73dfa476ca628e634f0ec7470" stroke-dasharray="6" stroke-opacity="0" stroke-width="2" stroke="black" d="M775.878877133066,663 L703,663" fill="none" />
+
+<text dx="765.878877133066" dy="687" fill="black" style="transform-box: fill-box; transform-origin: center;" transform="rotate(30)">
+    72.9
+</text>
+
+
+<path id="path-16612127a92045c3ab77add01a6f2b19"   stroke-width="2" stroke="gray" d="M775.878877133066,213 L775.878877133066,217.91935346737364" fill="none" />
+
+<text dx="775.878877133066" dy="239" fill="gray" style="transform-box: fill-box; transform-origin: center;" transform="rotate(40)">
+    4.9
+</text>
+
+
+<path id="path-9b6224fa5b6640fab7a6eba8e2d04bed"   stroke-width="2" stroke="gray" d="M775.878877133066,663 L775.878877133066,217.91935346737364" fill="none" />
+
+<text dx="771.878877133066" dy="617" fill="gray" style="transform-box: fill-box; transform-origin: center;" transform="rotate(40)">
+    445.1
+</text>
+
+
+<path id="path-2b040ab0560d4b9997c062b38a28f68e"   stroke-width="2" stroke="gray" d="M703,755.3 L775.878877133066,217.91935346737364" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-2b040ab0560d4b9997c062b38a28f68e" font-family="Verdana" font-size="14" fill="gray">
+        
+    </textPath>
+</text>
+
+<text fill="green" x="746.4716829613628" y="277.2843640837923"></text><circle cx="766.4716829613628" cy="287.2843640837923" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-7762f3872e6e46afb836f986f6dea175"  stroke-opacity="0" stroke-width="2" stroke="black" d="M766.4716829613628,287.2843640837923 L775.878877133066,217.91935346737364" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-7762f3872e6e46afb836f986f6dea175" font-family="Verdana" font-size="14" fill="black">
+        70.0
+    </textPath>
+</text>
+
+<text fill="green" x="731.6889492629722" y="386.2865236238788"></text><circle cx="751.6889492629722" cy="396.2865236238788" r="3" fill="black" fill-opacity="0.8"/>
+
+<path id="path-a27bd57fe07c46548f9a9ff5c2bfb7d1"  stroke-opacity="0" stroke-width="2" stroke="black" d="M751.6889492629722,396.2865236238788 L775.878877133066,217.91935346737364" fill="none" />
+
+<text dx="0" dy="-16" style="transform-box: fill-box; transform-origin: center;" >
+    <textPath href="#path-a27bd57fe07c46548f9a9ff5c2bfb7d1" font-family="Verdana" font-size="14" fill="black">
+        180.0
+    </textPath>
+</text>
+
+</g></svg>
