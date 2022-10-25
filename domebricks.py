@@ -145,7 +145,9 @@ class Row():
             if get_distance(new_point, bottom_radian_point) >= self.bottom_seam:
                 return new_point, radian
             radian -= step
-        raise RuntimeError('FIXME:')
+        raise RuntimeError(
+            'Could not move to seam. bottom_radian: {}, bottom_radian_point: {}'
+            .format(bottom_radian, bottom_radian_point))
 
     def _get_top_outer_point(self):
         step = 0.0001
@@ -162,7 +164,7 @@ class Row():
             new_point = Point('#{}-TOP'.format(self.number), new_x, new_y)
             if get_distance(new_point, self.bottom_outer_point) >= self.brick_height:
                 return new_point, radian
-        raise RuntimeError('FIXME:')
+        raise RuntimeError('Could not move to top outer point.')
 
     def _get_bottom_inner_point(self):
         if self.vertical:
@@ -557,7 +559,6 @@ def build_svg(scale=3.78,  # 1 mm == 1mm
 
         # Display bottom sizes (for verification after marking)
         bottom_sizes_x_offset = 650
-        # FIXME: What is 120?
         e_point = Point('E', bottom_sizes_x_offset, row_initial_y + sizes_row_y_offset)
         f_point = Point(
             'F', bottom_sizes_x_offset + top_outer_side,
