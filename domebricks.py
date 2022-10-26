@@ -125,45 +125,45 @@ class Row():
         self.inner_radius = inner_radius
         self.outer_radius = inner_radius + brick_width / 2.0
 
-        self.bottom_radian_point, self.bottom_radian = self._move_to_seam(bottom_radian, bottom_radian_point)
+        self.bottom_radian, self.bottom_radian_point = move_along_radius(
+            radian_point=bottom_radian_point,
+            circle_center_point=surface_circle_center_point,
+            distance=self.bottom_seam, radius=self.outer_radius)
 
         self.bottom_outer_point = self.bottom_radian_point
-        self.top_outer_point, self.top_radian = self._get_top_outer_point()
+        self.top_radian, self.top_outer_point = self._get_top_outer_point()
 
         self.bottom_inner_point = self._get_bottom_inner_point()
         self.top_inner_point = self._get_top_inner_point()
 
-    def _move_to_seam(self, bottom_radian, bottom_radian_point):
-        step = 0.0001
-
-        # FIXME: Try to find math instead of loop.
-        radian = bottom_radian
-        while True:
-            new_x = self.surface_circle_center_point.x + self.outer_radius * math.cos(radian)
-            new_y = self.surface_circle_center_point.y - self.outer_radius * math.sin(radian)
-            new_point = Point('?', new_x, new_y)
-            if get_distance(new_point, bottom_radian_point) >= self.bottom_seam:
-                return new_point, radian
-            radian -= step
-        raise RuntimeError(
-            'Could not move to seam. bottom_radian: {}, bottom_radian_point: {}'
-            .format(bottom_radian, bottom_radian_point))
-
     def _get_top_outer_point(self):
-        step = 0.0001
 
-        # FIXME: Try to find math instead of loop.
-        radian = self.bottom_radian
-        while True:
-            radian -= step
-            if self.vertical:
-                new_x = self.bottom_outer_point.x
-            else:
-                new_x = self.surface_circle_center_point.x + self.outer_radius * math.cos(radian)
-            new_y = self.surface_circle_center_point.y - self.outer_radius * math.sin(radian)
-            new_point = Point('#{}-TOP'.format(self.number), new_x, new_y)
-            if get_distance(new_point, self.bottom_outer_point) >= self.brick_height:
-                return new_point, radian
+        if self.vertical:
+            # FIXME: Use move_along_radius instead of loop.
+            # radian, new_point = move_along_radius(
+            #     radian_point=self.bottom_radian_point,
+            #     circle_center_point=self.surface_circle_center_point,
+            #     distance=self.brick_height, radius=self.outer_radius)
+            # return radian, new_point
+            step = 0.0001
+            radian = self.bottom_radian
+            new_x = self.bottom_outer_point.x
+            safety_counter = 10000
+            while True:
+                safety_counter -= 1
+                if safety_counter <= 0:
+                    raise RuntimeError('Could not find vertical brick radian and point.')
+                radian -= step
+                new_y = self.surface_circle_center_point.y - self.outer_radius * math.sin(radian)
+                new_point = Point('#{}-TOP'.format(self.number), new_x, new_y)
+                if get_distance(new_point, self.bottom_outer_point) >= self.brick_height:
+                    return radian, new_point
+        else:
+            radian, new_point = move_along_radius(
+                radian_point=self.bottom_radian_point,
+                circle_center_point=self.surface_circle_center_point,
+                distance=self.brick_height, radius=self.outer_radius)
+            return radian, new_point
         raise RuntimeError('Could not move to top outer point.')
 
     def _get_bottom_inner_point(self):
@@ -733,15 +733,7 @@ def get_dome_radius_radian(dome_outer_radius, dome_circle_center, first_row, bri
         first_row.top_inner_point, first_row.top_outer_point,
         distance=brick_width / 2.0, title='T')
 
-    # We know radius, start point and radius on the vertical plane. Compute radian.
-    #
-
-    # Find right angle point.
-    right_angle_point = Point('RAP', outer_point.x, dome_circle_center.y)
-
-    hypotenuse = get_distance(outer_point, dome_circle_center)
-    adjacent = get_distance(outer_point, right_angle_point)
-    radian = math.pi - math.asin(adjacent / hypotenuse)
+    radian = get_points_radian(dome_circle_center, outer_point)
     return radian, outer_point
 
 
@@ -1134,6 +1126,83 @@ def get_vertical_brick_elems(first_row):
         Path(bottom_inner_point, bottom_outer_point)
         .as_csv(stroke='orange', inner_text=True))
     return elems
+
+
+def to_polar(x, y):
+    # r = √ (122 + 52)
+    rho = math.sqrt(x ** 2 + y ** 2)
+    phi = math.degrees(math.atan2(y, x))
+    return (rho, phi)
+
+
+def to_cart(rho, phi):
+    # For x - cos(degrees) = x / radius
+    new_x = rho * math.cos(math.radians(phi))
+
+    # For y -  sin(degrees) = y / radius
+    new_y = rho * math.sin(math.radians(phi))
+    return (new_x, new_y)
+
+
+def move_along_radius(radian_point=None, radius=None,
+                      circle_center_point=None, distance=None):
+    """Returns radian and radian point after moving them to given distance.
+    Args:
+        radian_point(Point): point of the redian on circle surface
+        circle_center_point(Point): center point of the circle
+        distance (int): distance where to move
+        radius (int): radius of the circle.
+
+    Returns:
+        tuple(new_radian (int), new_radian_point (int)):
+    """
+    assert radian_point is not None, 'radian_point param is required'
+    assert radius is not None, 'radius param is required'
+    assert circle_center_point is not None, 'circle_center_point param is required'
+    assert distance is not None, 'distance param is required'
+
+    #
+    # To achieve move by distance (aka chord length) we switch from cartesian to polar system,
+    # move to distance and return to cartasean system.
+    #
+
+    # Move point coordinates to origin (0, 0) to conform to polar system
+    # origin (which is 0,0)
+    x1 = radian_point.x - circle_center_point.x
+    y1 = radian_point.y - circle_center_point.y
+
+    # Find polar coordinates around (0, 0)
+    polar = to_polar(x1, y1)
+
+    # Find degree of angle opposite to distance (chord).
+    a = distance  # 8  # radius
+    b = polar[0]  # 6  # radius
+    c = polar[0]  # 7  # distance
+    distance_cos = (b ** 2 + c ** 2 - a ** 2) / (2 * b * c)
+    distance_angle = math.degrees(math.acos(distance_cos))
+
+    new_point_polar = (polar[0], distance_angle + polar[1])
+
+    # Convert to cartesian
+    new_x, new_y = to_cart(*new_point_polar)
+
+    # Now place new point around circle center point
+    new_x += circle_center_point.x
+    new_y += circle_center_point.y
+    new_point = Point('', new_x, new_y)
+
+    # And compute new radian.
+    new_radian = get_points_radian(circle_center_point, new_point)
+    return new_radian, new_point
+
+
+def get_points_radian(circle_center_point, point):
+    """Returns radian for two points."""
+    hypotenuse = get_distance(circle_center_point, point)
+    right_angle_point = Point('?', point.x, circle_center_point.y)
+    adjacent = get_distance(right_angle_point, point)
+    new_radian = math.pi - math.asin(adjacent / hypotenuse)
+    return new_radian
 
 
 if __name__ == '__main__':

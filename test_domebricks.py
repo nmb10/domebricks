@@ -1,7 +1,9 @@
+import math
 from unittest import TestCase, main as unittest_main
 from domebricks import Point, Path, Row, \
     get_distance, get_lines_intersection, get_dome_radius_radian, get_point_on_line, \
-    get_dome_inner_radius, get_degree_elements
+    get_dome_inner_radius, get_degree_elements, move_along_radius, get_points_radian, \
+    float_format
 from mock import Mock
 
 
@@ -50,11 +52,11 @@ class RowTest(TestCase):
             first_row_radian_point, 1,
             vertical=True, brick_height=120)
 
-        self.assertAlmostEqual(vertical_row.top_outer_point.x, 78.0, delta=0.01)
-        self.assertAlmostEqual(vertical_row.top_outer_point.y, 542.02, delta=0.01)
+        self.assertAlmostEqual(vertical_row.top_outer_point.x, 84.02, delta=0.01)
+        self.assertAlmostEqual(vertical_row.top_outer_point.y, 536.99, delta=0.01)
 
-        self.assertAlmostEqual(vertical_row.top_inner_point.x, 203.0, delta=0.01)
-        self.assertAlmostEqual(vertical_row.top_inner_point.y, 566.21, delta=0.01)
+        self.assertAlmostEqual(vertical_row.top_inner_point.x, 203.02, delta=0.01)
+        self.assertAlmostEqual(vertical_row.top_inner_point.y, 562.19, delta=0.01)
 
         # FIXME: Verify bottom points math.
         debug_elems = [
@@ -69,7 +71,96 @@ class RowTest(TestCase):
             Path(vertical_row.top_outer_point, surface_circle_center_point)
             .as_csv(stroke='red', dasharray=True),
         ]
+        return False, debug_elems
+
+
+class MoveAlongRadiusTest(TestCase):
+
+    @debug_dump
+    def test_moves_point_along_radius(self):
+        # vertical aka soldier - the first row of the dome.
+
+        circle_center_point = Point('SCCP', 800, 600)
+        radian_point = Point('FRRP', 300, 600)
+        distance = 100
+        radius = 500
+
+        new_radian, new_radian_point = move_along_radius(
+            radian_point=radian_point, circle_center_point=circle_center_point,
+            distance=distance, radius=radius)
+
+        # Ensure it moved along the radius (radius for new point is the same.)
+        self.assertEqual(
+            get_distance(radian_point, circle_center_point),
+            get_distance(new_radian_point, circle_center_point))
+
+        # Ensure distance is met.
+        self.assertEqual(get_distance(radian_point, new_radian_point), 100)
+        self.assertAlmostEqual(new_radian, 2.94, delta=0.01)
+
+        debug_elems = [
+            circle_center_point.as_csv(),
+            radian_point.as_csv(),
+            new_radian_point.as_csv(),
+
+            # Display distance from old point to center
+            Path(radian_point, circle_center_point).as_csv(),
+
+            # Display distance from new point to center
+            Path(new_radian_point, circle_center_point).as_csv(),
+
+            # Display distance from new point to old point
+            Path(radian_point, new_radian_point).as_csv(),
+        ]
+        return False, debug_elems
+
+
+class GetPointsRadianTest(TestCase):
+
+    @debug_dump
+    def test_returns_radian_for_vertical_points(self):
+        # vertical aka soldier - the first row of the dome.
+
+        point1 = Point('P1', 300, 300)
+        point2 = Point('P2', 300, 600)
+
+        radian = get_points_radian(point1, point2)
+
+        info_point = Point(
+            'radian={}, degrees={}'
+            .format(float_format(radian), float_format(math.degrees(radian))),
+            320, 580)
+        debug_elems = [
+            point1.as_csv(),
+            point2.as_csv(),
+            Path(point1, point2).as_csv(),
+            Path(point2, Point('', 500, 600), distance='').as_csv(),
+            info_point.as_csv(),
+        ]
         return True, debug_elems
+
+    @debug_dump
+    def test_returns_radian_for_diagonal_points(self):
+        # vertical aka soldier - the first row of the dome.
+
+        point1 = Point('P1', 300, 300)
+        point2 = Point('P2', 400, 400)
+
+        radian = get_points_radian(point1, point2)
+
+        info_point = Point(
+            'radian={}, degrees={}'
+            .format(float_format(radian), float_format(math.degrees(radian))),
+            420, 380)
+        debug_elems = [
+            point1.as_csv(),
+            point2.as_csv(),
+            Path(point1, point2, distance='').as_csv(),
+            # Show line on x axis
+            Path(point2, Point('', 500, 400), distance='').as_csv(),
+            info_point.as_csv()
+        ]
+        return False, debug_elems
 
 
 class GetDistanceTest(TestCase):
@@ -251,7 +342,7 @@ def dump_svg(inner_elems):
     scale /= 2
     elems = [
         '<?xml version="1.0" encoding="UTF-8" standalone="no"?>',
-        '<svg version="1.1" width="2000mm" height="10000mm" xmlns="http://www.w3.org/2000/svg" >',
+        '<svg version="1.1" width="800mm" height="1000mm" xmlns="http://www.w3.org/2000/svg" >',
         '<g transform="scale({})">'.format(scale)
     ]
     elems.extend(inner_elems)
