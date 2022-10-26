@@ -12,6 +12,7 @@
 </p>
 <p align="center">
     <a href="#about-the-project">About The Project</a> •
+    <a href="#installation">Installation</a> •
     <a href="#usage">How To Use</a> •
     <a href="#run-examples">Run Examples</a> •
     <a href="#output-examples">Output Examples</a> •
@@ -21,10 +22,10 @@
 ## About The Project
 Domebricks is a Python script for computing and printing schemes needed to cut bricks for pompeii oven dome. This script allows to set initial bricks sizes, dome radius and dome height. As a result outputs svg with all info needed to cut dome row brick.
 
-## Importing
-Import from GitHub:
+## Installation
+Download from GitHub:
 ```bash
-wget https://raw.githubusercontent.com/nmb10/domebricks.py
+wget https://raw.githubusercontent.com/nmb10/domebricks/main/domebricks.py
 ```
 
 ## Usage
