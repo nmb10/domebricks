@@ -1129,6 +1129,7 @@ def get_vertical_brick_elems(first_row):
 
 
 def to_polar(x, y):
+    """Converts from cartesian to polar."""
     # r = √ (122 + 52)
     rho = math.sqrt(x ** 2 + y ** 2)
     phi = math.degrees(math.atan2(y, x))
@@ -1136,6 +1137,7 @@ def to_polar(x, y):
 
 
 def to_cart(rho, phi):
+    """Converts from polar to cartesian."""
     # For x - cos(degrees) = x / radius
     new_x = rho * math.cos(math.radians(phi))
 
@@ -1175,9 +1177,9 @@ def move_along_radius(radian_point=None, radius=None,
     polar = to_polar(x1, y1)
 
     # Find degree of angle opposite to distance (chord).
-    a = distance  # 8  # radius
-    b = polar[0]  # 6  # radius
-    c = polar[0]  # 7  # distance
+    a = distance
+    b = polar[0]
+    c = polar[0]
     distance_cos = (b ** 2 + c ** 2 - a ** 2) / (2 * b * c)
     distance_angle = math.degrees(math.acos(distance_cos))
 
