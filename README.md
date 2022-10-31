@@ -20,7 +20,7 @@
 </p>
 
 ## About The Project
-Domebricks is a Python script for computing and printing schemes needed to cut bricks for pompeii oven dome. This script allows to set initial bricks sizes, dome radius and dome height. As a result outputs svg with all info needed to cut dome row brick.
+Domebricks is a Python script for computing and printing schemes/plans needed to cut bricks for pompeii oven (actually any dome). This script allows to set initial bricks sizes, dome radius and dome height and as a result outputs svg with all info needed to cut any brick of any row of the dome (except key bricks for now).
 
 ## Installation
 Download from GitHub:
