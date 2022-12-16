@@ -8,7 +8,7 @@
     Pre-alfa release of the script. Use it on your own risk, I don't guarantee correctness of any value computed.
 </p>
 <p align="center">
-    Python3 script compute bricks geometry for dome (pompeii or pizza oven).
+    Python3 script to compute bricks geometry for dome (pompeii or pizza oven).
 </p>
 <p align="center">
     <a href="#about-the-project">About The Project</a> •
