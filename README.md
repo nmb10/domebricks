@@ -8,10 +8,10 @@
     Pre-alfa release of the script. Use it on your own risk, I don't guarantee correctness of any value computed.
 </p>
 <p align="center">
-    Python3 script to compute bricks geometry for dome (pompeii or pizza oven).
+    Python3 script to compute bricks shape for a dome (pompeii or pizza oven) with detailed blueprint for every row.
 </p>
 <p align="center">
-    <a href="#about-the-project">About The Project</a> •
+    <a href="#geometric-shapes-for-dome-bricks">About The Project</a> •
     <a href="#installation">Installation</a> •
     <a href="#usage">How To Use</a> •
     <a href="#run-examples">Run Examples</a> •
@@ -19,8 +19,8 @@
     <a href="#tests">Run tests</a> •
 </p>
 
-## About The Project
-Domebricks is a Python script for computing and printing schemes/plans needed to cut bricks for pompeii oven (actually any dome). This script allows to set initial bricks sizes, dome radius and dome height and as a result outputs svg with all info needed to cut any brick of any row of the dome (except key bricks for now).
+# Geometric shapes for dome bricks
+This Python script computes and prints schemes/plans needed to cut bricks for pompeii oven (actually any dome). The script allows to set initial bricks sizes, dome radius and dome height and as a result outputs svg with all info needed to cut any brick of any row of the dome (except key bricks for now).
 
 ## Installation
 Download from GitHub:
