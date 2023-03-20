@@ -8,7 +8,7 @@
     Pre-alfa release of the script. Use it on your own risk, I don't guarantee correctness of any value computed.
 </p>
 <p align="center">
-    Python3 script to compute bricks shape for a dome (pompeii or pizza oven) with detailed blueprint for every row.
+    Bricks shape calculator for a dome (pompeii or pizza oven) with detailed blueprint for every row.
 </p>
 <p align="center">
     <a href="#geometric-shapes-for-dome-bricks">About The Project</a> •
@@ -20,7 +20,7 @@
 </p>
 
 # Geometric shapes for dome bricks
-This Python script computes and prints schemes/plans needed to cut bricks for pompeii oven (actually any dome). The script allows to set initial bricks sizes, dome radius and dome height and as a result outputs svg with all info needed to cut any brick of any row of the dome (except key bricks for now).
+This Python script calculates and prints schemes/plans needed to cut bricks for pompeii oven (actually any dome). The script allows to set initial bricks sizes, dome radius and dome height and as a result outputs svg with all info needed to cut a brick of every row of the dome (except key bricks for now).
 
 ## Installation
 Download from GitHub:
