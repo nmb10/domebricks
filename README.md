@@ -65,7 +65,7 @@ python3 domebricks.py --inner_radius 490 --height 440 --brick_width=250 --first_
 After finish open dome.svg (support template) in any browser and row-templates.pdf (pdf with templates for bricks)
 
 ## Output examples
-Check out [dome.svg](examples/dome.svg) and [row-templates.pdf](examples/row-templates.pdf) for default run output.
+Check out [dome.svg](examples/dome.svg) and [row-templates.pdf](examples/row-templates.pdf) for default run output. Also check real-life example of the dome implemented using domebricks templates - [examples](examples).
 
 ## Run tests
 ```bash
