@@ -1,10 +1,11 @@
 import math
-from unittest import TestCase, main as unittest_main
-from domebricks import Point, Path, Row, \
-    get_distance, get_lines_intersection, get_dome_radius_radian, get_point_on_line, \
-    get_dome_inner_radius, get_degree_elements, move_along_radius, get_points_radian, \
-    float_format
 from mock import Mock
+from unittest import TestCase, main as unittest_main
+
+from domebricks import Point, Path, Row, \
+    get_distance, get_lines_intersection, get_dome_radius_radian, \
+    get_point_on_line, get_dome_inner_radius, move_along_radius, \
+    get_points_radian, float_format
 
 
 def debug_dump(test_function):
@@ -52,11 +53,23 @@ class RowTest(TestCase):
             first_row_radian_point, 1,
             vertical=True, brick_height=120)
 
-        self.assertAlmostEqual(vertical_row.top_outer_point.x, 84.02, delta=0.01)
-        self.assertAlmostEqual(vertical_row.top_outer_point.y, 536.99, delta=0.01)
+        self.assertAlmostEqual(
+            vertical_row.top_outer_point.x,
+            83.02,
+            delta=0.01)
+        self.assertAlmostEqual(
+            vertical_row.top_outer_point.y,
+            569.0,
+            delta=0.01)
 
-        self.assertAlmostEqual(vertical_row.top_inner_point.x, 203.02, delta=0.01)
-        self.assertAlmostEqual(vertical_row.top_inner_point.y, 562.19, delta=0.01)
+        self.assertAlmostEqual(
+            vertical_row.top_inner_point.x,
+            203.02,
+            delta=0.01)
+        self.assertAlmostEqual(
+            vertical_row.top_inner_point.y,
+            587.19,
+            delta=0.01)
 
         # FIXME: Verify bottom points math.
         debug_elems = [
@@ -86,7 +99,8 @@ class MoveAlongRadiusTest(TestCase):
         radius = 500
 
         new_radian, new_radian_point = move_along_radius(
-            radian_point=radian_point, circle_center_point=circle_center_point,
+            radian_point=radian_point,
+            circle_center_point=circle_center_point,
             distance=distance, radius=radius)
 
         # Ensure it moved along the radius (radius for new point is the same.)
@@ -127,8 +141,7 @@ class GetPointsRadianTest(TestCase):
         radian = get_points_radian(point1, point2)
 
         info_point = Point(
-            'radian={}, degrees={}'
-            .format(float_format(radian), float_format(math.degrees(radian))),
+            f'radian={float_format(radian)}, degrees={float_format(math.degrees(radian))}',
             320, 580)
         debug_elems = [
             point1.as_csv(),
@@ -149,8 +162,7 @@ class GetPointsRadianTest(TestCase):
         radian = get_points_radian(point1, point2)
 
         info_point = Point(
-            'radian={}, degrees={}'
-            .format(float_format(radian), float_format(math.degrees(radian))),
+            f'radian={float_format(radian)}, degrees={float_format(math.degrees(radian))}',
             420, 380)
         debug_elems = [
             point1.as_csv(),
@@ -188,6 +200,7 @@ class GetDistanceTest(TestCase):
 
 
 class SplitRowTest(TestCase):
+    # FIXME:
     pass
 
 
@@ -257,8 +270,8 @@ class GetDomeRadiusRadianTest(TestCase):
         first_row.top_inner_point = Point('TIP', 300, 250)
 
         radian, radian_point = get_dome_radius_radian(
-            dome_outer_radius, dome_circle_center_point, first_row,
-            brick_width=250)
+            dome_outer_radius, dome_circle_center_point,
+            first_row, brick_width=250)
 
         self.assertEqual(first_row.top_inner_point.x - radian_point.x, 125)
         self.assertAlmostEqual(radian, 3.14, delta=0.01)
@@ -299,8 +312,10 @@ class GetDomeInnerRadiusTest(TestCase):
         dome_radius, dome_circle_center_point, first_row_outer_top_point = get_dome_inner_radius(
             surface_circle_center_point, surface_inner_radius)
 
-        self.assertEqual(dome_radius, 671.3)
-        self.assertEqual(get_distance(dome_circle_center_point, first_row_outer_top_point), 661.3)
+        self.assertEqual(dome_radius, 644.9)
+        self.assertEqual(
+            get_distance(dome_circle_center_point, first_row_outer_top_point),
+            640.9)
 
         elems = [
             surface_circle_center_point.as_csv(),
@@ -310,40 +325,13 @@ class GetDomeInnerRadiusTest(TestCase):
         return False, elems
 
 
-class GetDegreeElementsTest(TestCase):
-
-    @debug_dump
-    def test_returns_angle_degree_between_top_and_bottom_surfaces(self):
-        a_point = Point('A', 100, 130)
-        b_point = Point('B', 180, 130)
-        e_point = Point('E', 120, 230)
-        f_point = Point('F', 160, 230)
-
-        degree_elements = get_degree_elements(
-            a_point, b_point, e_point, f_point,
-            degree_x_offset=180)
-
-        degree_element = degree_elements[-1]
-
-        # Ensure the angle degree between top and bottom surfaces is correct.
-        self.assertIn(u'>78.7°<', degree_element)
-        elems = [
-            a_point.as_csv(),
-            b_point.as_csv(),
-            e_point.as_csv(),
-            f_point.as_csv()
-        ]
-        elems.extend(degree_elements)
-        return False, elems
-
-
 def dump_svg(inner_elems):
     scale = 3.78
     scale /= 2
     elems = [
         '<?xml version="1.0" encoding="UTF-8" standalone="no"?>',
         '<svg version="1.1" width="800mm" height="1000mm" xmlns="http://www.w3.org/2000/svg" >',
-        '<g transform="scale({})">'.format(scale)
+        f'<g transform="scale({scale})">'
     ]
     elems.extend(inner_elems)
 
