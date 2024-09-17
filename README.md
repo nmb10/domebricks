@@ -5,7 +5,10 @@
     <p align="center">Domebricks</p>
 </h1>
 <p align="center" style="color:brown">
-    Pre-alfa release of the script. Use it on your own risk, I don't guarantee correctness of any value computed.
+    Alfa release of the script. Use it on your own risk, I don't guarantee correctness of any value computed.
+</p>
+<p align="center" style="color:brown">
+    WARNING: pdf file with row templates may have length errors after printing (3-5 mm, that is critical for sure). So print first page, check with physical ruller and check scale settings of your printer if the length is wrong.
 </p>
 <p align="center">
     Bricks shape calculator for a dome (pompeii or pizza oven) with detailed blueprint for every row.
@@ -53,18 +56,13 @@ optional arguments:
 All params are optional.
 
 ## Run Examples
-```bash
-domebricks.py
-```
-After finish open dome.svg in any browser
 
 Example with all params:
 ```bash
-domebricks.py --scale=3.78 --brick_width=250 --brick_height=65 --brick_depth=125 --inner_radius=503 --height=440 --first_row_height=125 --seam=4
+python3 domebricks.py --inner_radius 490 --height 440 --brick_width=250 --first_row_height=150 --brick_depth=123 --bricks-amount=32 --minimal-width=40
 ```
 
-## Output examples
-Check out [example.svg](example.svg) for default run output.
+After finish open dome.svg (support template) in any browser and row-templates.pdf (pdf with templates for bricks)
 
 ## Run tests
 ```bash
